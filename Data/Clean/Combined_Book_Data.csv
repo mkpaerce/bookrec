@@ -1,403 +1,403 @@
 ,Good_Reads_Popularity_Rank,Title,Author,Avg_Rating,Num_Ratings,ISBN,ASIN,Genres,Series,Page_Number,Format
-0,1,The Hunger Games,Suzanne Collins,4.34,9318770,9780439023481,0439023483,"Genres, Young Adult, Fiction, Fantasy, Science Fiction, Audiobook, Teen, Post Apocalyptic","The Hunger Games, #1",374,Hardcover
-1,2,Harry Potter and the Order of the Phoenix,J.K. Rowling,4.5,3616863,Not found,0439686520,"Genres, Fantasy, Young Adult, Fiction, Magic, Audiobook, Childrens, Adventure","Harry Potter, #5",912,Paperback
-2,3,Pride and Prejudice,Jane Austen,4.29,4517843,9781441341709,1441341706,"Genres, Fiction, Historical Fiction, Historical, Literature, Audiobook, Novels, Historical Romance",,279,Paperback
-3,4,To Kill a Mockingbird,Harper Lee,4.26,6564282,9780060935467,0060935464,"Genres, Fiction, Historical Fiction, School, Literature, Young Adult, Historical, Read For School",,323,Paperback
-4,6,Twilight,Stephenie Meyer,3.66,7001576,9780316015844,0316015849,"Genres, Fantasy, Young Adult, Romance, Fiction, Vampires, Paranormal, Paranormal Romance","The Twilight Saga, #1",498,Paperback
-5,7,Animal Farm,George Orwell,,4227932,9780451526342,B0D7LQMF4N,"Genres, Fiction, Dystopia, Fantasy, School, Literature, Science Fiction, Novels",,141,Mass Market Paperback
-6,8,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,139673,9780345538376,0345538374,"Genres, Fantasy, Fiction, Classics, Adventure, Science Fiction Fantasy, Epic Fantasy, High Fantasy",,1728,Mass Market Paperback
-7,9,The Chronicles of Narnia,C.S. Lewis,4.28,685690,9780066238500,0066238501,"Genres, Fantasy, Classics, Fiction, Young Adult, Childrens, Christian, Middle Grade","The Chronicles of Narnia, #1-7",767,Paperback
-8,12,The Giving Tree,Shel Silverstein,4.38,1190454,9780060256654,0060256656,"Genres, Childrens, Classics, Fiction, Picture Books, Poetry, Young Adult, Fantasy",,64,Hardcover
-9,14,Gone with the Wind,Margaret Mitchell,4.31,1247885,9780446365383,0446365386,"Genres, Classics, Historical Fiction, Fiction, Romance, Historical, Literature, War",,1037,Mass Market Paperback
-10,15,The Lightning Thief,Rick Riordan,4.31,3264460,9780786838653,0786838655,"Genres, Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #1",377,Paperback
-11,17,The Little Prince,Antoine de Saint-Exupéry,4.33,2302532,9780152023980,0152023984,"Genres, Classics, Fiction, Fantasy, Childrens, France, Philosophy, Young Adult",,96,Hardcover
-12,18,Jane Eyre,Charlotte Brontë,4.15,2219334,9780142437209,0142437204,"Genres, Fiction, Gothic, Historical Fiction, Literature, Historical, School, Audiobook",,532,Paperback
-13,19,The Great Gatsby,F. Scott Fitzgerald,3.93,5602558,9780743273565,0743273567,"Genres, Fiction, School, Historical Fiction, Romance, Literature, Novels, Read For School",,180,Paperback
-14,23,Divergent,Veronica Roth,4.14,4216029,9780062024039,0062024035,"Genres, Young Adult, Dystopia, Fantasy, Fiction, Science Fiction, Romance, Teen","Divergent, #1",487,Paperback
-15,24,Memoirs of a Geisha,Arthur Golden,4.16,2062520,9781400096893,1400096898,"Genres, Fiction, Historical Fiction, Romance, Historical, Novels, Asia, Adult Fiction",,503,Mass Market Paperback
-16,25,Les Misérables,Victor Hugo,4.21,824467,9780451525260,0451525264,"Genres, Fiction, Historical Fiction, Literature, France, Historical, Novels, French Literature",,1463,Mass Market Paperback
-17,26,The Alchemist,Paulo Coelho,3.92,3337364,9780061122415,B00A2KBUGQ,"Genres, Fiction, Fantasy, Philosophy, Self Help, Novels, Spirituality, Audiobook",,197,Paperback
-18,27,Anne of Green Gables,L.M. Montgomery,4.32,1054161,9780451528827,0451528824,"Genres, Classics, Fiction, Young Adult, Historical Fiction, Childrens, Middle Grade, Audiobook","Anne of Green Gables, #1",320,Mass Market Paperback
-19,28,Lord of the Flies,William Golding,3.7,3065278,9780140283334,0140283331,"Genres, Fiction, Classics, Young Adult, School, Dystopia, Literature, Read For School",,182,Paperback
-20,29,Romeo and Juliet,William Shakespeare,3.74,2725967,9780743477116,0743477111,"Genres, Classics, Plays, Fiction, School, Read For School, Literature, High School",,281,Mass Market Paperback
-21,31,City of Bones,Cassandra Clare,4.07,2098845,9781416914280,1416914285,"Genres, Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Fiction, Vampires","The Mortal Instruments, #1",485,Hardcover
-22,32,The Help,Kathryn Stockett,4.46,2919452,9780399155345,B009CUIY52,"Genres, Fiction, Historical Fiction, Historical, Adult Fiction, Contemporary, Audiobook, Book Club",,464,Hardcover
-23,33,Dracula,Bram Stoker,4.02,1382011,9780393970128,0393970124,"Genres, Horror, Fiction, Fantasy, Gothic, Paranormal, Literature, Vampires",,488,Paperback
-24,34,Charlotte’s Web,E.B. White,4.2,1956918,9780064410939,0064410935,"Genres, Fiction, Childrens, Classics, Fantasy, Young Adult, Middle Grade, Animals",,184,Paperback
-25,35,Ender’s Game,Orson Scott Card,4.31,1431622,9780812550702,0812550706,"Genres, Science Fiction, Fiction, Young Adult, Fantasy, Classics, Science Fiction Fantasy, Dystopia","Ender's Saga, #1",324,Mass Market Paperback
-26,37,Of Mice and Men,John Steinbeck,3.89,2700572,9780142000670,0142000671,"Genres, Fiction, School, Historical Fiction, Literature, Read For School, Novels, High School",,107,Paperback
-27,38,Brave New World,Aldous Huxley,3.99,1971576,9780060929879,0060929871,"Genres, Fiction, Science Fiction, Dystopia, Literature, Novels, School, Audiobook",,268,Paperback
-28,39,The Catcher in the Rye,J.D. Salinger,3.8,3734101,9780316769174,0316769177,"Genres, Classics, Fiction, Young Adult, Literature, School, Coming Of Age, Novels",,277,Paperback
-29,41,A Thousand Splendid Suns,Khaled Hosseini,4.45,1641637,9781594489501,B002FVPH5A,"Genres, Fiction, Historical Fiction, Historical, Classics, Novels, War, Literary Fiction",,372,Hardcover
-30,44,The Outsiders,S.E. Hinton,4.14,1487514,9780670532575,0670532576,"Genres, Classics, Young Adult, Fiction, School, Read For School, Coming Of Age, Realistic Fiction",,208,Mass Market Paperback
-31,45,The Princess Bride,William Goldman,4.27,925418,9780345418265,0345418263,"Genres, Fantasy, Fiction, Romance, Humor, Adventure, Young Adult, Classics",,429,Paperback
-32,46,The Secret Garden,Frances Hodgson Burnett,4.16,1238963,9780517189603,0517189607,"Genres, Fiction, Classics, Childrens, Young Adult, Historical Fiction, Middle Grade, Audiobook",,331,Hardcover
-33,47,The Time Traveler's Wife,Audrey Niffenegger,,1830878,9781939126016,1939126010,"Genres, Fiction, Romance, Fantasy, Time Travel, Science Fiction, Contemporary, Chick Lit",,537,ebook
-34,48,A Game of Thrones,George R.R. Martin,4.45,2631401,9780553588484,0553588486,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Adventure","A Song of Ice and Fire, #1",835,Mass Market Paperback
-35,51,A Wrinkle in Time,Madeleine L'Engle,3.98,1246378,9781250153272,1250153271,"Genres, Fantasy, Fiction, Classics, Young Adult, Science Fiction, Childrens, Middle Grade","Time Quintet, #1",218,Paperback
-36,52,The Odyssey,Homer,3.82,1136887,9780143039952,0143039954,"Genres, Fiction, Poetry, Mythology, Fantasy, School, Literature, Adventure",,541,Paperback
-37,53,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.88,1728881,9780143131847,0143131842,"Genres, Horror, Fiction, Science Fiction, Gothic, Fantasy, School, Literature",,260,Paperback
-38,54,The Kite Runner,Khaled Hosseini,4.35,3336334,9781594631931,159463193X,"Genres, Fiction, Historical Fiction, Contemporary, Novels, Historical, School, Literature",,371,Paperback
-39,55,The Giver,Lois Lowry,4.12,2674765,9780385732550,0385732554,"Genres, Young Adult, Fiction, Classics, Dystopia, Science Fiction, Fantasy, School","The Giver, #1",208,Paperback
-40,56,The Handmaid’s Tale,Margaret Atwood,4.15,2236448,9780385490818,038549081X,"Genres, Fiction, Classics, Dystopia, Science Fiction, Feminism, Fantasy, Audiobook","The Handmaid's Tale, #1",311,Paperback
-41,57,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.58,4563162,9780439655484,043965548X,"Genres, Fantasy, Fiction, Young Adult, Magic, Childrens, Audiobook, Middle Grade","Harry Potter, #3",435,Mass Market Paperback
-42,58,Where the Wild Things Are,Maurice Sendak,4.25,1034305,9780099408390,B00BG704OS,"Genres, Picture Books, Childrens, Fiction, Classics, Fantasy, Adventure, Young Adult",,38,Paperback
-43,59,The Lovely Bones,Alice Sebold,3.86,2421669,9780316166683,0316166685,"Genres, Fiction, Mystery, Young Adult, Contemporary, Fantasy, Thriller, Crime",,372,Mass Market Paperback
-44,60,Green Eggs and Ham,Dr. Seuss,4.31,817071,9780394800165,B00297Y0JO,"Genres, Childrens, Picture Books, Classics, Fiction, Poetry, Fantasy, Humor",,64,Hardcover
-45,61,The Adventures of Huckleberry Finn,Mark Twain,3.83,1303886,9780142437179,0142437174,"Genres, Fiction, Classics, Historical Fiction, Literature, Adventure, Young Adult, School",,327,Paperback
-46,62,Dune,Frank Herbert,4.28,1527514,9780593099322,059309932X,"Genres, Science Fiction, Fantasy, Audiobook, Science Fiction Fantasy, Classics, Novels, Adventure","Dune, #1",658,Hardcover
-47,63,Life of Pi,Yann Martel,3.94,1700609,9780770430078,0770430074,"Genres, Fiction, Fantasy, Classics, Adventure, Magical Realism, Novels, Literature",,460,Paperback
-48,64,A Tale of Two Cities,Charles Dickens,3.87,986135,9780141439600,0141439602,"Genres, Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School",,489,Paperback
-49,65,Lolita,Vladimir Nabokov,3.87,899617,9780679723165,0679723161,"Genres, Fiction, Literature, Russia, Novels, Romance, Russian Literature, Literary Fiction",,368,Paperback
-50,67,Water for Elephants,Sara Gruen,4.11,1666323,9781565125605,1565125606,"Genres, Fiction, Historical Fiction, Romance, Historical, Adult Fiction, Contemporary, Audiobook",,368,Paperback
-51,68,The Bell Jar,Sylvia Plath,4.06,1100469,9780571268863,0571268862,"Genres, Fiction, Feminism, Mental Health, Psychology, Literature, Literary Fiction, Novels",,294,Paperback
-52,69,Matilda,Roald Dahl,4.33,1038199,9780435123987,043512398X,"Genres, Fiction, Childrens, Classics, Fantasy, Middle Grade, Young Adult, Humor",,240,Hardcover
-53,71,Catch-22,Joseph Heller,3.99,861661,9780684833392,0684833395,"Genres, Classics, Fiction, Historical Fiction, War, Humor, Literature, Novels",,453,Paperback
-54,72,The Girl With the Dragon Tattoo,Stieg Larsson,4.17,3332725,9780670069019,0670069019,"Genres, Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary",Millennium #1,480,Hardcover
-55,74,The Pillars of the Earth,Ken Follett,4.34,797476,9780451222138,045122213X,"Genres, Historical Fiction, Fiction, Historical, Fantasy, Classics, Audiobook, Medieval","Kingsbridge, #1",976,Paperback
-56,75,Watership Down,Richard Adams,4.09,494130,9780380395866,038039586X,"Genres, Classics, Fiction, Fantasy, Young Adult, Animals, Adventure, Childrens","Watership Down, #1",478,Mass Market Paperback
-57,76,Rebecca,Daphne du Maurier,4.25,678317,9780316323703,B00HG5I1TE,"Genres, Fiction, Mystery, Gothic, Romance, Classics, Historical Fiction, Thriller",,449,Kindle Edition
-58,77,Great Expectations,Charles Dickens,3.8,844988,9780192833594,0192833596,"Genres, Classics, Fiction, Literature, Historical Fiction, School, Novels, Classic Literature",,544,Paperback
-59,78,The Color Purple,Alice Walker,4.27,724773,9780143135692,0143135694,"Genres, Fiction, Historical Fiction, Feminism, LGBT, Historical, Queer, Banned Books",,287,Paperback
-60,79,Outlander,Diana Gabaldon,4.26,1116518,9780440242949,0440242940,"Genres, Historical Fiction, Romance, Fantasy, Fiction, Time Travel, Historical, Historical Romance","Outlander, #1",850,Mass Market Paperback
-61,80,Anna Karenina,Leo Tolstoy,4.1,889947,9780345803924,0345803922,"Genres, Fiction, Romance, Russia, Historical Fiction, Literature, Russian Literature, Novels",,964,Paperback
-62,83,My Sister’s Keeper,Jodi Picoult,4.1,1254269,9780743454537,0743454537,"Genres, Fiction, Chick Lit, Young Adult, Drama, Adult Fiction, Realistic Fiction, Contemporary",,423,Paperback
-63,84,The Brothers Karamazov,Fyodor Dostoevsky,4.38,358572,9780374528379,0374528373,"Genres, Fiction, Russia, Classics, Russian Literature, Literature, Philosophy, Novels",,796,Paperback
-64,85,A Tree Grows in Brooklyn,Betty Smith,4.3,489023,9780061120077,0061120073,"Genres, Fiction, Historical Fiction, Classics, Young Adult, Coming Of Age, Historical, New York",,496,Paperback
-65,86,A Clockwork Orange,Anthony Burgess,,743872,9780393341768,0393341763,"Genres, Fiction, Science Fiction, Dystopia, Horror, Literature, Novels, Banned Books",,240,Paperback
-66,88,The Road,Cormac McCarthy,3.99,974995,9780307265432,0307265439,"Genres, Fiction, Science Fiction, Dystopia, Post Apocalyptic, Horror, Literature, Novels",,241,Hardcover
-67,89,The Golden Compass,Philip Pullman,4.03,1578839,9780679879244,B001NAR73E,"Genres, Fantasy, Young Adult, Fiction, Childrens, Adventure, Middle Grade, Audiobook","His Dark Materials, #1",399,Hardcover
-68,90,Vampire Academy,Richelle Mead,4.11,667681,9781595141743,159514174X,"Genres, Fantasy, Young Adult, Vampires, Paranormal, Romance, Urban Fantasy, Fiction","Vampire Academy, #1",332,Paperback
-69,92,Angela’s Ashes,Frank McCourt,4.15,645632,9780007205233,0007205236,"Genres, Nonfiction, Memoir, Biography, Classics, Ireland, Autobiography, Biography Memoir","Frank McCourt, #1",452,Paperback
-70,95,The Old Man and the Sea,Ernest Hemingway,3.81,1236234,9780684830490,0684830493,"Genres, Fiction, Literature, Novels, School, American, Adventure, Literary Fiction",,96,Hardcover
-71,96,The Poisonwood Bible,Barbara Kingsolver,4.1,769680,9780060786502,0060786507,"Genres, Fiction, Historical Fiction, Africa, Classics, Literary Fiction, Historical, Literature",,546,Paperback
-72,97,And Then There Were None,Agatha Christie,4.28,1497601,9780312330873,0312330871,"Genres, Mystery, Fiction, Thriller, Crime, Mystery Thriller, Classics, Audiobook",,264,Paperback
-73,98,The Complete Stories and Poems,Edgar Allan Poe,4.4,287738,9780385074070,0385074077,"Genres, Classics, Poetry, Horror, Fiction, Short Stories, Gothic, Mystery",,821,Hardcover
-74,99,Atlas Shrugged,Ayn Rand,3.69,399733,9780452011878,0452011876,"Genres, Fiction, Classics, Philosophy, Politics, Literature, Science Fiction, Novels",,1168,Paperback
-75,100,Interview with the Vampire,Anne Rice,4.02,624171,9780345476876,0345476875,"Genres, Horror, Fantasy, Fiction, Vampires, Paranormal, Classics, Gothic","The Vampire Chronicles, #1",346,Paperback
-76,101,Winnie-the-Pooh,A.A. Milne,4.38,386930,9780525467564,0525467564,"Genres, Childrens, Fiction, Classics, Fantasy, Animals, Audiobook, Middle Grade","Winnie-the-Pooh, #1",161,Hardcover
-77,104,Fahrenheit 451,Ray Bradbury,3.97,2635709,9780307347978,0307347974,"Genres, Fiction, Science Fiction, Dystopia, School, Literature, Novels, Audiobook",,158,Mass Market Paperback
-78,105,The Shining,Stephen King,4.28,1615787,9780450040184,0450040186,"Genres, Horror, Fiction, Thriller, Classics, Fantasy, Paranormal, Mystery","The Shining, #1",497,Paperback
-79,106,"Moby-Dick or, The Whale",Herman Melville,3.56,593435,9780142437247,0142437247,"Genres, Fiction, Literature, Adventure, Historical Fiction, Novels, American, 19th Century",,720,Paperback
-80,107,A Prayer for Owen Meany,John Irving,4.24,329220,9780552135399,0552135399,"Genres, Fiction, Classics, Contemporary, Literature, Literary Fiction, Historical Fiction, Novels",,637,Paperback
-81,109,Clockwork Angel,Cassandra Clare,4.31,857912,9781416975861,1416975861,"Genres, Fantasy, Young Adult, Romance, Paranormal, Steampunk, Historical Fiction, Fiction","The Infernal Devices, #1",479,Hardcover
-82,111,The Secret Life of Bees,Sue Monk Kidd,4.1,1326085,9780142001745,0142001740,"Genres, Fiction, Historical Fiction, Classics, Young Adult, Historical, Contemporary, Coming Of Age",,302,Paperback
-83,112,It,Stephen King,4.24,1202429,9780450411434,0450411435,"Genres, Horror, Fiction, Thriller, Fantasy, Classics, Audiobook, Mystery",,1184,Paperback
-84,114,The Red Tent,Anita Diamant,4.2,617456,9780312353766,0312353766,"Genres, Historical Fiction, Fiction, Historical, Religion, Book Club, Feminism, Womens",,324,Hardcover
-85,115,The Name of the Wind,Patrick Rothfuss,4.52,1030105,9780756404079,075640407X,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Magic, Science Fiction Fantasy","The Kingkiller Chronicle, #1",662,Hardcover
-86,116,The Metamorphosis,Franz Kafka,3.89,1279010,9780553213690,0553213695,"Genres, Classics, Fiction, Fantasy, Philosophy, Short Stories, Literature, School",,201,Mass Market Paperback
-87,117,The Master and Margarita,Mikhail Bulgakov,4.29,388621,9780679760801,0679760806,"Genres, Fiction, Russia, Fantasy, Russian Literature, Magical Realism, Literature, Novels",,372,Paperback
-88,119,The Count of Monte Cristo,Alexandre Dumas,4.31,967913,9780140449266,0140449264,"Genres, Fiction, Historical Fiction, Adventure, Literature, France, Historical, Audiobook",,1276,Paperback
-89,120,Eragon,Christopher Paolini,3.96,1873609,9780375826696,B0042B4JAK,"Genres, Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy",The Inheritance Cycle #1,503,Paperback
-90,121,The Last Olympian,Rick Riordan,4.55,1090250,9781423101475,1423101472,"Genres, Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #5",381,Hardcover
-91,122,The Very Hungry Caterpillar,Eric Carle,4.34,531355,9780241003008,B01BITQJP6,"Genres, Picture Books, Childrens, Fiction, Animals, Classics, Food, Counting",,26,Board book
-92,123,Looking for Alaska,John Green,3.96,1691145,9781435249158,1435249151,"Genres, Young Adult, Fiction, Contemporary, Romance, Realistic Fiction, Coming Of Age, Teen",,221,Paperback
-93,124,Middlesex,Jeffrey Eugenides,4.04,652075,9780312422158,0312422156,"Genres, Fiction, Historical Fiction, Contemporary, LGBT, Classics, Literary Fiction, Queer",,529,Paperback
-94,125,Charlie and the Chocolate Factory,Roald Dahl,4.16,892169,9780142403884,0142403881,"Genres, Fiction, Fantasy, Childrens, Young Adult, Middle Grade, Classics, Humor","Charlie Bucket, #1",176,Paperback
-95,126,The Adventures of Tom Sawyer,Mark Twain,3.92,981551,9780143039563,0143039563,"Genres, Fiction, Classics, Adventure, Historical Fiction, Young Adult, Literature, Childrens",,244,Paperback
-96,129,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,1545601,9781400032716,1400032717,"Genres, Fiction, Mystery, Young Adult, Classics, Autistic Spectrum Disorder, Novels, Contemporary",,226,Paperback
-97,131,The Unbearable Lightness of Being,Milan Kundera,4.11,511212,9780571224388,0571224385,"Genres, Fiction, Philosophy, Literature, Novels, Romance, Czech Literature, Classics",,314,Paperback
-98,132,The Name of the Rose,Umberto Eco,4.14,381445,9780156001311,0156001314,"Genres, Fiction, Historical Fiction, Mystery, Historical, Literature, Italy, Crime",,552,Paperback
-99,133,Holes,Louis Sachar,4.01,1301313,9780439244190,0439244196,"Genres, Young Adult, Fiction, Middle Grade, Childrens, Classics, School, Realistic Fiction","Holes, #1",272,Paperback
-100,134,On the Road,Jack Kerouac,3.61,431012,9780140042597,0140042598,"Genres, Fiction, Travel, Literature, Classics, Novels, American, Adventure",,307,Paperback
-101,135,Six of Crows,Leigh Bardugo,4.47,1065200,9781627792127,1627792120,"Genres, Fantasy, Young Adult, Fiction, Young Adult Fantasy, LGBT, Adventure, Magic","Six of Crows, #1",480,Hardcover
-102,136,Where the Red Fern Grows,Wilson Rawls,4.12,426836,9780375806810,0375806814,"Genres, Classics, Fiction, Young Adult, Childrens, Historical Fiction, Middle Grade, Animals",,272,Mass Market Paperback
-103,139,In Cold Blood,Truman Capote,4.09,698118,9780679745587,0679745580,"Genres, Nonfiction, True Crime, Crime, Mystery, History, Classics, Thriller",,343,Paperback
-104,140,The Scarlet Letter,Nathaniel Hawthorne,3.44,893265,9780142437261,0142437263,"Genres, Fiction, Historical Fiction, School, Literature, High School, Historical, Read For School",,279,Paperback
-105,142,Fight Club,Chuck Palahniuk,4.18,620755,9780393355949,0393355942,"Genres, Fiction, Classics, Thriller, Novels, Mystery, Literature, Audiobook",,224,Paperback
-106,143,The Five People You Meet in Heaven,Mitch Albom,,763446,9780786868711,0786868716,"Genres, Fiction, Contemporary, Inspirational, Fantasy, Classics, Spirituality, Philosophy",,196,Hardcover
-107,144,Watchmen,Alan Moore,4.38,578899,9780930289232,0930289234,"Genres, Graphic Novels, Fiction, Science Fiction, Fantasy, Graphic Novels Comics, Classics, Comic Book",,416,Paperback
-108,145,The Girl Who Played With Fire,Stieg Larsson,4.26,955897,9780307269980,0307269981,"Genres, Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Audiobook",Millennium #2,503,Hardcover
-109,146,The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,163495,9780679433132,0679433139,"Genres, Poetry, Fiction, Literature, Philosophy, Fantasy, Italian Literature, Italy",,798,Hardcover
-110,147,The Cat in the Hat,Dr. Seuss,4.19,567104,9780394800011,039480001X,"Genres, Childrens, Picture Books, Fiction, Poetry, Classics, Fantasy, Humor","Cat in the Hat, #1",61,Hardcover
-111,148,All Quiet on the Western Front,Erich Maria Remarque,4.09,490602,9780449213940,B00EJ3APSG,"Genres, Fiction, Historical Fiction, War, Classics, Historical, Literature, School",,296,Mass Market Paperback
-112,150,"Hush, Hush",Becca Fitzpatrick,3.92,729087,9781416989417,1416989412,"Genres, Fantasy, Young Adult, Romance, Paranormal, Angels, Paranormal Romance, Fiction","Hush, Hush, #1",391,Hardcover
-113,151,The Little House Collection,Laura Ingalls Wilder,4.36,155519,9780060529963,0060529962,"Genres, Classics, Historical Fiction, Childrens, Fiction, Young Adult, Historical, Middle Grade","Little House, #1-9",2700,Paperback
-114,152,Lonesome Dove,Larry McMurtry,4.55,211846,9780671683900,067168390X,"Genres, Fiction, Historical Fiction, Westerns, Classics, Historical, Adventure, Audiobook","Lonesome Dove, #1",960,Mass Market Paperback
-115,153,Catching Fire,Suzanne Collins,4.34,3856108,9780439023498,0439023491,"Genres, Young Adult, Fiction, Fantasy, Science Fiction, Romance, Audiobook, Teen","The Hunger Games, #2",391,Hardcover
-116,154,Peter Pan,J.M. Barrie,4.04,361614,9780805072457,0805072454,"Genres, Fantasy, Fiction, Childrens, Classics, Adventure, Audiobook, Young Adult",,155,Hardcover
-117,157,The Battle of the Labyrinth,Rick Riordan,4.42,1164473,9781423101468,1423101464,"Genres, Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #4",361,Hardcover
-118,158,Love in the Time of Cholera,Gabriel García Márquez,3.94,527673,9781400034680,140003468X,"Genres, Fiction, Historical Fiction, Magical Realism, Literature, Novels, Spanish Literature, Literary Fiction",,348,Paperback
-119,159,Gone Girl,Gillian Flynn,4.14,3296196,9780307588371,0307588378,"Genres, Fiction, Mystery, Thriller, Mystery Thriller, Crime, Suspense, Contemporary",,415,Paperback
-120,160,The Addiction Manifesto,Jerry Weaver,4.76,1238,9781638377634,1638377634,"Genres, Nonfiction, Self Help, Memoir, Psychology, Mental Health, Biography",,178,Paperback
-121,161,Insurgent,Veronica Roth,3.97,1573354,9780007442911,0007442912,"Genres, Young Adult, Dystopia, Fantasy, Fiction, Science Fiction, Romance, Adventure","Divergent, #2",525,Hardcover
-122,163,The Secret History,Donna Tartt,4.16,900547,9781400031702,1400031702,"Genres, Fiction, Mystery, Classics, Contemporary, Thriller, Literary Fiction, Mystery Thriller",,559,Paperback
-123,164,The Sea of Monsters,Rick Riordan,4.24,1285126,9780786856862,0786856866,"Genres, Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #2",279,Hardcover
-124,165,Clockwork Princess,Cassandra Clare,4.55,464113,9781406321340,1406321346,"Genres, Fantasy, Young Adult, Romance, Paranormal, Historical Fiction, Steampunk, Urban Fantasy","The Infernal Devices, #3",567,Paperback
-125,167,How the Grinch Stole Christmas!,Dr. Seuss,4.38,433741,9780007173044,0007173040,"Genres, Childrens, Picture Books, Christmas, Classics, Fiction, Poetry, Fantasy",,64,Hardcover
-126,168,The Ultimate Hitchhiker’s Guide to the Galaxy,Douglas Adams,4.38,332116,9780345453747,B00A2LZDTA,"Genres, Science Fiction, Fiction, Humor, Fantasy, Classics, Comedy, Science Fiction Fantasy","Hitchhiker's Guide to the Galaxy, #1-5",815,Paperback
-127,170,Shadow Kiss,Richelle Mead,4.33,375441,9781595141972,1595141979,"Genres, Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #3",443,Paperback
-128,171,The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,4.43,9670,9781557831576,B002K27PVS,"Genres, Plays, Classics, Humor, Drama, Fiction, Theatre, Comedy",,137,Kindle Edition
-129,172,The Elephant Tree,R.D. Ronald,3.78,31314,9781848764569,1848764561,"Genres, Thriller, Mystery, Fiction, Crime, Drama, Contemporary, Novels",,252,Paperback
-130,173,The Maze Runner,James Dashner,4.05,1611433,9780385737944,0385737947,"Genres, Young Adult, Dystopia, Science Fiction, Fiction, Fantasy, Audiobook, Post Apocalyptic","The Maze Runner, #1",384,Hardcover
-131,174,Their Eyes Were Watching God,Zora Neale Hurston,3.99,368978,9780061120060,0061120065,"Genres, Classics, Fiction, Historical Fiction, School, Literature, African American, Feminism",,238,Paperback
-132,175,The Importance of Being Earnest,Oscar Wilde,4.17,391057,9781580495806,158049580X,"Genres, Classics, Plays, Fiction, Drama, Humor, School, Literature",,89,Paperback
-133,176,Atonement,Ian McEwan,3.95,542752,9780385721790,B00A2M6OLU,"Genres, Fiction, Historical Fiction, Classics, Romance, Historical, War, Literary Fiction",,351,Paperback
-134,177,The Wonderful Wizard of Oz,L. Frank Baum,,489596,9780140621679,0140621679,"Genres, Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook","Oz, #1",154,Paperback
-135,180,"Eat, Pray, Love",Elizabeth Gilbert,3.64,1802879,9780143038412,0143038419,"Genres, Nonfiction, Memoir, Travel, Biography, Romance, Chick Lit, Spirituality",,368,Paperback
-136,181,The Lorax,Dr. Seuss,4.35,358821,9780679889106,0679889108,"Genres, Childrens, Picture Books, Fiction, Classics, Poetry, Fantasy, Environment",,72,Hardcover
-137,182,Goodnight Moon,Margaret Wise Brown,4.32,385904,9780060775858,0060775858,"Genres, Childrens, Picture Books, Fiction, Classics, Poetry, Kids, Animals",,32,Hardcover
-138,183,The Hunger Games Trilogy Boxset,Suzanne Collins,4.49,228722,9780545265355,0545265355,"Genres, Young Adult, Fiction, Fantasy, Dystopia, Science Fiction, Romance, Adventure","The Hunger Games, #1-3",1155,Hardcover
-139,184,A Midsummer Night’s Dream,William Shakespeare,3.94,560793,9780743477543,0743477545,"Genres, Plays, Fiction, Fantasy, School, Romance, Poetry, Literature",,298,Mass Market Paperback
-140,187,Murder on the Orient Express,Agatha Christie,4.2,682387,9780007119318,B006VWJ2XC,"Genres, Mystery, Classics, Fiction, Crime, Mystery Thriller, Audiobook, Thriller","Hercule Poirot, #10",274,Paperback
-141,189,Heart of Darkness,Joseph Conrad,3.43,536927,9781892295491,1892295490,"Genres, Fiction, Classics, Literature, Historical Fiction, Africa, School, Novels",,188,Paperback
-142,191,The Selection,Kiera Cass,4.07,1678338,9780062059932,B00BG7DY04,"Genres, Romance, Young Adult, Dystopia, Fantasy, Fiction, Audiobook, Science Fiction","The Selection, #1",336,Hardcover
-143,193,The Night Circus,Erin Morgenstern,4.01,1046317,9780385534635,0385534639,"Genres, Fantasy, Fiction, Romance, Historical Fiction, Magic, Young Adult, Audiobook",,506,Hardcover
-144,194,The Prophet,Kahlil Gibran,4.23,315757,9780001000391,000100039X,"Genres, Poetry, Classics, Philosophy, Fiction, Spirituality, Religion, Literature",,127,Paperback
-145,195,Blood Promise,Richelle Mead,4.3,321864,9781595141989,B0057DB4HI,"Genres, Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #4",503,Hardcover
-146,196,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.4,3642100,9781501139239,1501139231,"Genres, Fiction, Historical Fiction, LGBT, Contemporary, Audiobook, Queer, Historical",,389,Hardcover
-147,198,The Good Earth,Pearl S. Buck,4.01,255541,9781416500186,1416500189,"Genres, Fiction, Historical Fiction, China, Classics, Literature, Historical, Asia","House of Earth, #1",418,Mass Market Paperback
-148,199,Alice in Wonderland,Jane Carruth,4.03,394489,9780517223628,0517223627,"Genres, Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Literature",,96,Hardcover
-149,201,The Phantom Tollbooth,Norton Juster,4.2,297926,9780394820378,0394820371,"Genres, Fantasy, Fiction, Classics, Childrens, Young Adult, Middle Grade, Adventure",,248,Paperback
-150,202,"Oh, the Places You’ll Go!",Dr. Seuss,4.37,427322,9780679805274,0679805273,"Genres, Childrens, Picture Books, Fiction, Classics, Poetry, Fantasy, Young Adult",,44,Hardcover
-151,203,The Neverending Story,Michael Ende,4.18,212318,9780525457589,0525457585,"Genres, Fantasy, Fiction, Young Adult, Childrens, Adventure, Classics, German Literature",,396,Hardcover
-152,204,Madame Bovary,Gustave Flaubert,3.71,355150,9780192840394,0192840398,"Genres, Fiction, Classics, France, Literature, French Literature, Romance, 19th Century",,329,Paperback
-153,207,Treasure Island,Robert Louis Stevenson,3.85,518596,9780753453803,0753453800,"Genres, Fiction, Adventure, Historical Fiction, Young Adult, Childrens, Pirates, Fantasy",,352,Hardcover
-154,208,Jonathan Livingston Seagull,Richard Bach,3.86,263538,9780743278904,0743278909,"Genres, Fiction, Classics, Philosophy, Fantasy, Spirituality, Inspirational, Self Help",,112,Paperback
-155,209,A Storm of Swords,George R.R. Martin,4.55,820726,9780553573428,055357342X,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #3",1177,Mass Market Paperback
-156,211,The Boy in the Striped Pajamas,John Boyne,4.16,904071,9780385751070,0385751079,"Genres, Historical Fiction, Fiction, Young Adult, Historical, Holocaust, War, World War II",,224,Hardcover
-157,212,Fifty Shades of Grey,E.L. James,3.67,2771866,9781612130293,1612130291,"Genres, Fiction, BDSM, Contemporary, Contemporary Romance, Chick Lit, Erotica, Erotic Romance","Fifty Shades, #1",356,Paperback
-158,213,Jurassic Park,Michael Crichton,4.12,1009630,9780307763051,B007UH4D3G,"Genres, Science Fiction, Fiction, Thriller, Horror, Fantasy, Adventure, Classics","Jurassic Park, #1",450,Kindle Edition
-159,214,Beloved,Toni Morrison,3.97,465173,9781400033416,1400033411,"Genres, Fiction, Classics, Historical Fiction, Magical Realism, Historical, Literature, School","Beloved Trilogy, #1",325,Paperback
-160,216,The Lost Hero,Rick Riordan,4.3,903355,9781423113393,142311339X,"Genres, Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #1",576,Hardcover
-161,217,A Farewell to Arms,Ernest Hemingway,3.82,338322,9780099910107,0099910101,"Genres, Fiction, Historical Fiction, Classics, War, Literature, Novels, Romance",,293,Paperback
-162,219,The Canterbury Tales,Geoffrey Chaucer,3.52,232505,9780140424386,0140424385,"Genres, Fiction, Poetry, Classics, Literature, School, Short Stories, Historical Fiction",,504,Paperback
-163,220,A Little Princess,Frances Hodgson Burnett,4.23,317539,9780142437018,0142437018,"Genres, Fiction, Childrens, Classics, Young Adult, Historical Fiction, Middle Grade, Historical",,242,Paperback
-164,221,The World According to Garp,John Irving,4.11,234149,9780345915597,0345915593,"Genres, Fiction, Classics, Literature, Contemporary, Novels, Literary Fiction, Humor",,610,Hardcover
-165,222,Thirteen Reasons Why,Jay Asher,3.84,1004672,9781595147882,1595147888,"Genres, Young Adult, Fiction, Contemporary, Realistic Fiction, Mystery, Mental Health, Teen",,352,Hardcover
-166,224,His Dark Materials,Philip Pullman,4.29,165493,9780440238607,0440238609,"Genres, Fantasy, Fiction, Young Adult, Childrens, Science Fiction Fantasy, Science Fiction, Classics",His Dark Materials #1-3,1088,Mass Market Paperback
-167,225,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,3.52,653212,9780060987107,B007CGOP4C,"Genres, Fantasy, Fiction, Retellings, Audiobook, Witches, Classics, Magic","The Wicked Years, #1",406,Paperback
-168,226,Clockwork Prince,Cassandra Clare,4.42,571963,9781416975885,1416975888,"Genres, Fantasy, Young Adult, Romance, Paranormal, Steampunk, Historical Fiction, Urban Fantasy","The Infernal Devices, #2",498,Hardcover
-169,227,Shōgun,James Clavell,4.41,200652,9781982603847,1982603844,"Genres, Historical Fiction, Fiction, Japan, Historical, Adventure, Audiobook, Literature","Asian Saga, #1",1152,Paperback
-170,228,Schindler’s List,Thomas Keneally,4.34,163219,9780340606513,0340606517,"Genres, History, Nonfiction, Holocaust, War, Historical, World War II, Biography",,429,Mass Market Paperback
-171,229,The Velveteen Rabbit,Margery Williams Bianco,4.31,266391,9780380002559,0380002558,"Genres, Classics, Childrens, Fiction, Picture Books, Fantasy, Animals, Young Adult",,40,Paperback
-172,230,The Iliad / The Odyssey,Homer,4.07,80831,9780147712554,0147712556,"Genres, Fiction, Poetry, Mythology, Classics, Fantasy, Literature, Historical Fiction",,1556,Paperback
-173,231,The Silmarillion,J.R.R. Tolkien,4.02,317688,9780618391110,0618391118,"Genres, Fantasy, Fiction, High Fantasy, Science Fiction Fantasy, Epic Fantasy, Classics, Mythology",,386,Hardcover
-174,233,Howl’s Moving Castle,Diana Wynne Jones,4.29,410460,9780064410342,006441034X,"Genres, Fantasy, Young Adult, Fiction, Middle Grade, Magic, Classics, Audiobook","Howl’s Moving Castle, #1",329,Mass Market Paperback
-175,234,Extremely Loud & Incredibly Close,Jonathan Safran Foer,3.97,429107,9780618711659,0618711651,"Genres, Fiction, Historical Fiction, Contemporary, Novels, Literary Fiction, Adult Fiction, Literature",,326,Paperback
-176,237,Man’s Search for Meaning,Viktor E. Frankl,4.38,802171,9780807014295,080701429X,"Genres, Nonfiction, Psychology, Philosophy, Self Help, Memoir, Biography, Audiobook",,165,Paperback
-177,238,Fallen,Lauren Kate,3.72,605542,9780385738934,0385738935,"Genres, Fantasy, Young Adult, Romance, Paranormal, Angels, Paranormal Romance, Fiction","Fallen, #1",464,Hardcover
-178,240,Last Sacrifice,Richelle Mead,4.37,295187,9781595143068,1595143068,"Genres, Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #6",594,Hardcover
-179,241,Mockingjay,Suzanne Collins,4.1,3460472,9780439023511,0439023513,"Genres, Young Adult, Dystopia, Fiction, Fantasy, Science Fiction, Romance, Adventure","The Hunger Games, #3",390,Hardcover
-180,242,A Confederacy of Dunces,John Kennedy Toole,3.89,287622,9780802130204,0802130208,"Genres, Fiction, Humor, Literature, Comedy, Novels, Classics, American",,394,Paperback
-181,243,The Green Mile,Stephen King,4.48,343180,9780451933027,0451933028,"Genres, Horror, Fiction, Fantasy, Thriller, Mystery, Classics, Crime",,592,Paperback
-182,244,The Secret Magdalene,Ki Longfellow,4.15,4684,9780307346667,0307346668,"Genres, Historical Fiction, Fiction, Religion, Historical, Spirituality, Literature, Novels",,448,Hardcover
-183,245,The Crucible,Arthur Miller,3.61,443066,9780142437339,0142437336,"Genres, Classics, Plays, Fiction, Historical Fiction, School, Read For School, Historical",,143,Paperback
-184,248,The Girl on the Train,Paula Hawkins,3.96,3143307,9781594633669,1594633665,"Genres, Fiction, Mystery, Thriller, Mystery Thriller, Crime, Suspense, Audiobook",,336,Hardcover
-185,249,The Wind in the Willows,Kenneth Grahame,4.02,231171,9780143039099,0143039091,"Genres, Fiction, Childrens, Fantasy, Classics, Animals, Young Adult, Middle Grade",,197,Paperback
-186,250,A Light in the Attic,Shel Silverstein,4.36,465661,9780060513061,0060513063,"Genres, Poetry, Childrens, Classics, Fiction, Humor, Young Adult, Picture Books",,176,Hardcover
-187,251,Spirit Bound,Richelle Mead,4.32,302768,9781595142504,1595142509,"Genres, Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #5",489,Hardcover
-188,252,Misery,Stephen King,4.23,796049,9780450417399,0450417395,"Genres, Horror, Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Audiobook",,370,Paperback
-189,253,The Lord of the Rings,J.R.R. Tolkien,4.54,706363,9780618640157,0618640150,"Genres, Fantasy, Classics, Fiction, Adventure, Science Fiction Fantasy, High Fantasy, Epic Fantasy",,1216,Paperback
-190,254,City of Fallen Angels,Cassandra Clare,4.07,624710,9781442403543,1442403543,"Genres, Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #4",425,Hardcover
-191,255,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.47,342460,9780553256697,0553256696,"Genres, Nonfiction, Biography, History, Christian, Memoir, Classics, Holocaust",,242,Mass Market Paperback
-192,258,The God of Small Things,Arundhati Roy,3.96,312357,9780679457312,B006E58GFG,"Genres, Fiction, India, Historical Fiction, Classics, Literary Fiction, Contemporary, Indian Literature",,321,Paperback
-193,259,The Phantom of the Opera,Gaston Leroux,3.96,262450,9780060809249,0060809248,"Genres, Fiction, Horror, Romance, Gothic, Classics, Mystery, Historical Fiction",,360,Mass Market Paperback
-194,260,A Clash of Kings,George R.R. Martin,4.42,985378,9780553381696,0553381695,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #2",1009,Paperback
-195,262,Ella Enchanted,Gail Carson Levine,4.01,419217,9780590920681,0590920685,"Genres, Fantasy, Young Adult, Fiction, Middle Grade, Romance, Childrens, Fairy Tales","Ella Enchanted, #1",240,Paperback
-196,263,Girl with a Pearl Earring,Tracy Chevalier,3.93,759723,9780452287020,0452287022,"Genres, Historical Fiction, Fiction, Classics, Historical, Art, Romance, Adult Fiction",,233,Paperback
-197,264,The Fellowship of the Ring,J.R.R. Tolkien,4.4,2982506,9780618346257,0618346252,"Genres, Fantasy, Classics, Fiction, Adventure, Audiobook, High Fantasy, Science Fiction Fantasy","The Lord of the Rings, #1",398,Paperback
-198,265,The House of the Spirits,Isabel Allende,4.29,294377,9780553383805,0553383809,"Genres, Fiction, Magical Realism, Historical Fiction, Fantasy, Spanish Literature, Historical, Novels",,448,Paperback
-199,266,Dark Places,Gillian Flynn,3.95,799498,9780307341563,0307341569,"Genres, Mystery, Fiction, Thriller, Mystery Thriller, Crime, Suspense, Audiobook",,424,Hardcover
-200,267,Uglies,Scott Westerfeld,3.85,694875,9780689865381,0689865384,"Genres, Young Adult, Dystopia, Science Fiction, Fiction, Fantasy, Romance, Teen","Uglies, #1",425,Paperback
-201,268,The Wind-Up Bird Chronicle,Haruki Murakami,4.14,300958,9780965341981,0965341984,"Genres, Fiction, Magical Realism, Fantasy, Japanese Literature, Novels, Literature, Literary Fiction",,607,Paperback
-202,269,Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,474310,9780739461198,B0058M5XF2,"Genres, Nonfiction, Animals, Memoir, Biography, Dogs, Humor, Biography Memoir",,291,Hardcover
-203,270,The Way of Kings,Brandon Sanderson,4.67,592324,9780765326355,0765326353,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Magic","The Stormlight Archive, #1",1007,Hardcover
-204,271,Mystic River,Dennis Lehane,4.17,153601,9780060584757,0060584750,"Genres, Mystery, Fiction, Thriller, Crime, Mystery Thriller, Suspense, Drama",,416,Paperback
-205,272,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,783919,9781984801814,1984801813,"Genres, Historical Fiction, Fiction, Romance, Historical, World War II, Audiobook, Book Club",,291,Paperback
-206,273,Norwegian Wood,Haruki Murakami,,673134,9780375704024,0375704027,"Genres, Fiction, Romance, Japan, Japanese Literature, Classics, Novels, Literary Fiction",,296,Paperback
-207,275,She’s Come Undone,Wally Lamb,3.91,354120,9780671021009,B000MZ077O,"Genres, Fiction, Contemporary, Chick Lit, Coming Of Age, Adult Fiction, Novels, Literary Fiction",,465,Mass Market Paperback
-208,276,Paper Towns,John Green,3.7,1444674,9780142414934,B003F76HBG,"Genres, Young Adult, Fiction, Contemporary, Romance, Mystery, Realistic Fiction, Coming Of Age",,305,Paperback
-209,277,Shutter Island,Dennis Lehane,4.13,208775,9780380731862,038073186X,"Genres, Mystery, Fiction, Thriller, Horror, Mystery Thriller, Crime, Suspense",,369,Mass Market Paperback
-210,278,Shiver,Maggie Stiefvater,3.76,490693,9780545123266,0545123267,"Genres, Young Adult, Fantasy, Romance, Paranormal, Werewolves, Fiction, Paranormal Romance","The Wolves of Mercy Falls, #1",392,Hardcover
-211,279,Speak,Laurie Halse Anderson,4.05,615607,9780374311254,0374311250,"Genres, Young Adult, Fiction, Contemporary, Realistic Fiction, Mental Health, Coming Of Age, Teen",,224,Hardcover
-212,280,Marked,P.C. Cast,3.82,513354,9780312360269,0312360266,"Genres, Young Adult, Fantasy, Vampires, Paranormal, Romance, Fiction, Supernatural","House of Night, #1",306,Paperback
-213,281,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,4.07,364904,9780679785897,B01BITNA5S,"Genres, Fiction, Classics, Humor, Journalism, Novels, Literature, American",,204,Paperback
-214,284,1984,George Orwell,4.2,5063858,9780452284234,B00A2MTYAI,"Genres, Classics, Fiction, Science Fiction, Dystopia, Literature, Politics, Novels",,368,Paperback
-215,285,The Complete Calvin and Hobbes,Bill Watterson,4.81,41387,9780740748479,0740748475,"Genres, Humor, Graphic Novels, Fiction, Comics, Classics, Comedy, Graphic Novels Comics",,1456,Hardcover
-216,287,Kafka on the Shore,Haruki Murakami,4.12,513540,9781400079278,1400079276,"Genres, Fiction, Magical Realism, Fantasy, Japanese Literature, Novels, Literature, Classics",,467,Paperback
-217,288,Before I Go to Sleep,S.J. Watson,3.9,353063,9780062060556,0062060554,"Genres, Thriller, Fiction, Mystery, Mystery Thriller, Suspense, Crime, Contemporary",,359,Hardcover
-218,290,Island of the Blue Dolphins,Scott O'Dell,3.87,342454,9780547488899,B0038AUY8M,"Genres, Fiction, Young Adult, Historical Fiction, Childrens, Middle Grade, Adventure, School",,194,Kindle Edition
-219,291,The Idiot,Fyodor Dostoevsky,4.21,201179,9780679642428,0679642420,"Genres, Fiction, Russia, Russian Literature, Classics, Literature, Philosophy, Novels",,667,Paperback
-220,293,Roots: The Saga of an American Family,Alex Haley,4.44,162157,9780440174646,0440174643,"Genres, Historical Fiction, Fiction, Classics, Historical, African American, Africa, Race",,729,Mass Market Paperback
-221,294,Big Little Lies,Liane Moriarty,4.31,1067780,9780399587191,0399587195,"Genres, Fiction, Mystery, Contemporary, Thriller, Chick Lit, Audiobook, Mystery Thriller",,460,Paperback
-222,297,Into the Wild,Jon Krakauer,4.02,1147094,9780385486804,0385486804,"Genres, Nonfiction, Biography, Adventure, Classics, Memoir, Nature, School",,207,Paperback
-223,300,None of This Is True,Lisa Jewell,4.1,855546,9781982179007,1982179007,"Genres, Thriller, Mystery, Audiobook, Fiction, Mystery Thriller, Suspense, Crime",,390,Hardcover
-224,301,Neverwhere,Neil Gaiman,4.17,550478,9780060557812,0060557818,"Genres, Fantasy, Fiction, Urban Fantasy, Audiobook, Science Fiction Fantasy, Horror, Science Fiction","London Below, #1",370,Paperback
-225,302,Shatter Me,Tahereh Mafi,3.84,1081735,9780062085481,0062085484,"Genres, Dystopia, Young Adult, Fiction, Science Fiction, Paranormal, Enemies To Lovers, Audiobook","Shatter Me, #1",338,Hardcover
-226,303,The Girl Who Kicked the Hornet’s Nest,Stieg Larsson,4.24,758259,9780307269997,B007NB94GA,"Genres, Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Audiobook","Millennium, #3",566,Hardcover
-227,304,The Vampire Lestat,Anne Rice,4.1,210002,9780345476883,0345476883,"Genres, Horror, Fantasy, Vampires, Fiction, Paranormal, Supernatural, Gothic","The Vampire Chronicles, #2",481,Mass Market Paperback
-228,305,The Things They Carried,Tim O'Brien,4.14,331377,9780767902892,0767902890,"Genres, Fiction, Historical Fiction, Classics, War, Short Stories, School, Historical",,246,Paperback
-229,306,Wonder,R.J. Palacio,4.36,1150542,9780375869020,0375869026,"Genres, Fiction, Young Adult, Middle Grade, Contemporary, Realistic Fiction, Childrens, School","Wonder, #1",315,Hardcover
-230,308,The Paris Apartment,Lucy Foley,3.65,640192,9780063003057,0063003058,"Genres, Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Suspense, Crime",,360,Hardcover
-231,309,Never Let Me Go,Kazuo Ishiguro,3.85,780332,9781400078776,1400078776,"Genres, Fiction, Science Fiction, Dystopia, Contemporary, Literary Fiction, Romance, Classics",,288,Paperback
-232,310,Delirium,Lauren Oliver,3.95,474362,9780061726835,0061726834,"Genres, Young Adult, Dystopia, Romance, Fantasy, Science Fiction, Fiction, Teen","Delirium, #1",441,Paperback
-233,311,White Oleander,Janet Fitch,,360837,9780316182546,0316182540,"Genres, Fiction, Coming Of Age, Contemporary, Literary Fiction, Drama, Adult Fiction, Chick Lit",,446,Mass Market Paperback
-234,313,The Cruel Prince,Holly Black,4.02,1531422,9780316310277,0316310271,"Genres, Fantasy, Young Adult, Romance, Enemies To Lovers, Fae, Fiction, Young Adult Fantasy","The Folk of the Air, #1",370,Hardcover
-235,314,Foundation,Isaac Asimov,4.17,570846,9780553803716,0553803719,"Genres, Science Fiction, Fiction, Science Fiction Fantasy, Fantasy, Classics, Audiobook, Space Opera","Foundation, #1",244,Hardcover
-236,315,Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,3.98,11739,9780099494287,0099494280,"Genres, Travel, Nonfiction, Africa, History, Adventure, Memoir, Biography",,363,Paperback
-237,316,Ready Player One,Ernest Cline,4.23,1243586,9780307887436,030788743X,"Genres, Science Fiction, Fiction, Young Adult, Fantasy, Dystopia, Audiobook, Adventure","Ready Player One, #1",480,Hardcover
-238,318,Lock Every Door,Riley Sager,3.89,259577,9781524745158,1524745154,"Genres, Thriller, Mystery, Mystery Thriller, Fiction, Horror, Audiobook, Suspense",,381,ebook
-239,319,The Family Upstairs,Lisa Jewell,3.96,501774,9781501190100,1501190105,"Genres, Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Suspense, Crime","The Family Upstairs, #1",340,Hardcover
-240,320,You,Caroline Kepnes,3.96,269822,9781501195433,1501195433,"Genres, Thriller, Fiction, Mystery, Mystery Thriller, Contemporary, Audiobook, Horror","You, #1",464,Paperback
-241,321,Mistborn: The Final Empire,Brandon Sanderson,4.49,840627,9780765311788,076531178X,"Genres, Fantasy, Fiction, High Fantasy, Audiobook, Epic Fantasy, Magic, Science Fiction Fantasy","Mistborn, #1",541,Hardcover
-242,323,East of Eden,John Steinbeck,4.42,582278,9780142000656,0142000655,"Genres, Fiction, Classics, Historical Fiction, Literature, Novels, Literary Fiction, American",,601,Paperback
-243,324,The Mark of Athena,Rick Riordan,4.47,645818,9781423140603,1423140605,"Genres, Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #3",586,Hardcover
-244,325,The Bone Collector,Jeffery Deaver,4.2,186222,9780451188458,0451188454,"Genres, Mystery, Thriller, Fiction, Crime, Mystery Thriller, Suspense, Detective","Lincoln Rhyme, #1",528,Mass Market Paperback
-245,326,The Once and Future King,T.H. White,4.07,115373,9780441627400,0441627404,"Genres, Fantasy, Classics, Fiction, Historical Fiction, Arthurian, Mythology, Young Adult",,639,Mass Market Paperback
-246,327,The Son of Neptune,Rick Riordan,4.41,637693,9781423140597,1423140591,"Genres, Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #2",521,Hardcover
-247,328,Pretty Girls,Karin Slaughter,4.02,570304,9780062430878,0062430874,"Genres, Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Crime, Suspense",,432,Paperback
-248,329,I Know This Much Is True,Wally Lamb,4.21,318361,9780060987565,0060987561,"Genres, Fiction, Contemporary, Literary Fiction, Novels, Mental Health, Adult Fiction, Psychology",,897,Paperback
-249,330,James and the Giant Peach,Roald Dahl,4.03,497805,9780375814242,0375814248,"Genres, Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Adventure",,176,Hardcover
-250,331,The Housemaid's Secret,Freida McFadden,4.21,1126096,9781837901319,B0BGXYL3BZ,"Genres, Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Psychological Thriller","The Housemaid, #2",318,Kindle Edition
-251,332,A Court of Thorns and Roses,Sarah J. Maas,4.17,3604955,9781619634442,1619634449,"Genres, Fantasy, Young Adult, Fiction, Romantasy, Audiobook, New Adult, Fae","A Court of Thorns and Roses, #1",419,Hardcover
-252,333,Candide,Voltaire,3.76,289578,9780486266893,0486266893,"Genres, Fiction, Philosophy, France, Classics, Literature, French Literature, Humor",,129,Paperback
-253,334,The Complete Works,William Shakespeare,4.48,57371,9780517053614,0517053616,"Genres, Classics, Poetry, Fiction, Plays, Literature, Drama, Classic Literature",,1229,Leather Bound
-254,335,All Creatures Great and Small,James Herriot,4.35,152888,9780312965785,0312965788,"Genres, Nonfiction, Memoir, Animals, Classics, Biography, Audiobook, Biography Memoir","All Creatures Great and Small, #1-2",437,Mass Market Paperback
-255,336,Flow Down Like Silver,Ki Longfellow,4.01,4516,9780975925591,0975925598,"Genres, Historical Fiction, Fiction, Egypt, Historical, Philosophy, Literature, Africa",,301,Paperback
-256,337,Paradise Lost,John Milton,3.85,174656,9780140424393,0140424393,"Genres, Poetry, Fiction, Classics, Literature, Religion, Fantasy, Philosophy",,453,Paperback
-257,341,Behind Closed Doors,B.A. Paris,3.97,691259,9781250121004,1250121000,"Genres, Thriller, Fiction, Mystery, Mystery Thriller, Suspense, Audiobook, Psychological Thriller",,293,Hardcover
-258,342,No Exit,Taylor Adams,3.99,192141,9781912106769,B073BVCHKG,"Genres, Thriller, Mystery Thriller, Mystery, Fiction, Horror, Suspense, Crime",,287,Kindle Edition
-259,343,The Woman in Cabin 10,Ruth Ware,3.73,686207,9781501132933,1501132938,"Genres, Mystery, Thriller, Fiction, Mystery Thriller, Suspense, Audiobook, Crime","Lo Blacklock, #1",341,Hardcover
-260,344,Heidi,Johanna Spyri,4.04,206411,9780753454947,0753454947,"Genres, Classics, Fiction, Childrens, Historical Fiction, Young Adult, Middle Grade, Historical","Heidi, #1-2",352,Paperback
-261,345,The Thirteenth Tale,Diane Setterfield,3.98,320803,9780743298025,0743298020,"Genres, Fiction, Mystery, Historical Fiction, Gothic, Books About Books, Fantasy, Audiobook",,406,Hardcover
-262,346,"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,4.23,178067,9780380813810,0380813815,"Genres, Fiction, Humor, Historical Fiction, Fantasy, Religion, Comedy, Audiobook",,444,Paperback
-263,347,The Wise Man's Fear,Patrick Rothfuss,4.55,592944,9780756404734,0756404738,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Magic, Science Fiction Fantasy","The Kingkiller Chronicle, #2",994,Hardcover
-264,348,Me Before You,Jojo Moyes,4.26,1735810,9780670026609,0670026603,"Genres, Fiction, Contemporary, Chick Lit, Audiobook, Adult Fiction, Contemporary Romance, Drama","Me Before You, #1",369,Hardcover
-265,349,The Martian,Andy Weir,4.42,1206926,9780804139021,0804139024,"Genres, Science Fiction, Fiction, Audiobook, Adventure, Space, Thriller, Science Fiction Fantasy",,384,Hardcover
-266,350,The Couple Next Door,Shari Lapena,3.8,660799,9780735221086,0735221081,"Genres, Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Crime",,308,Hardcover
-267,351,City of Lost Souls,Cassandra Clare,4.21,552842,9781442416864,1442416866,"Genres, Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #5",535,Hardcover
-268,352,All the Light We Cannot See,Anthony Doerr,4.31,1851322,9781476746586,1476746583,"Genres, Historical Fiction, Fiction, Historical, War, World War II, Audiobook, France",,544,Hardcover
-269,353,Graceling,Kristin Cashore,4.07,473305,9780152063962,015206396X,"Genres, Fantasy, Young Adult, Romance, Fiction, Young Adult Fantasy, Adventure, Magic","Graceling Realm, #1",471,Hardcover
-270,354,A Flicker in the Dark,Stacy Willingham,3.99,517586,9781250803825,1250803829,"Genres, Thriller, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense, Crime",,357,Hardcover
-271,356,Home Before Dark,Riley Sager,4.06,256591,9781524745172,1524745170,"Genres, Horror, Thriller, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense",,389,Hardcover
-272,357,Different Seasons,Stephen King,4.36,214108,9780751514629,0751514624,"Genres, Horror, Fiction, Short Stories, Thriller, Mystery, Fantasy, Drama",,560,Mass Market Paperback
-273,358,"Are You There God? It’s Me, Margaret",Judy Blume,3.94,249096,9780689841583,0689841582,"Genres, Young Adult, Fiction, Childrens, Classics, Middle Grade, Coming Of Age, Realistic Fiction",,149,Hardcover
-274,359,Then She Was Gone,Lisa Jewell,4.05,857097,9781501154645,1501154648,"Genres, Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Suspense, Crime",,359,Paperback
-275,360,Final Girls,Riley Sager,3.82,228707,9781101985366,1101985364,"Genres, Thriller, Horror, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense",,352,Hardcover
-276,361,The Cider House Rules,John Irving,4.17,190753,9780786226740,0786226749,"Genres, Fiction, Classics, Historical Fiction, Literature, Literary Fiction, Contemporary, Novels",,1064,Hardcover
-277,362,The Last Thing He Told Me,Laura Dave,3.83,1066158,9781501171345,1501171348,"Genres, Mystery, Fiction, Thriller, Audiobook, Mystery Thriller, Suspense, Contemporary",,307,Hardcover
-278,363,Hamlet,William Shakespeare,4.02,1004103,9780521618748,0521618746,"Genres, Plays, Fiction, School, Literature, Read For School, Poetry, High School",,289,Paperback
-279,365,The Complete Maus,Art Spiegelman,4.58,239087,9780141014081,0141014083,"Genres, Graphic Novels, Comics, Nonfiction, History, Biography, Memoir, Historical",,296,Paperback
-280,366,The Only One Left,Riley Sager,4.14,449950,9780593183229,0593183223,"Genres, Thriller, Mystery, Mystery Thriller, Fiction, Horror, Audiobook, Suspense",,383,Hardcover
-281,368,Mrs. Dalloway,Virginia Woolf,3.79,329731,9780151009985,0151009988,"Genres, Fiction, Classics, Literature, Novels, Feminism, Literary Fiction, British Literature",,194,Hardcover
-282,370,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,317386,9780375508417,0375508414,"Genres, Fiction, Historical Fiction, Classics, LGBT, Queer, Historical, Chick Lit",,416,Hardcover
-283,371,A Good Girl's Guide to Murder,Holly Jackson,4.3,1516075,9781405293181,1405293187,"Genres, Young Adult, Thriller, Mystery Thriller, Fiction, Crime, Audiobook, Contemporary","A Good Girl's Guide to Murder, #1",433,Paperback
-284,372,Sophie’s World,Jostein Gaarder,3.97,271560,9781857993288,1857993284,"Genres, Fiction, Classics, Young Adult, Novels, Fantasy, Literature, Contemporary",,403,Paperback
-285,373,The Awakening,Kate Chopin,3.68,218930,9780543898081,0543898083,"Genres, Classics, Fiction, Feminism, School, Literature, Historical Fiction, Read For School",,195,Paperback
-286,375,The Graveyard Book,Neil Gaiman,4.16,556936,9780060530921,0060530928,"Genres, Fantasy, Young Adult, Fiction, Horror, Middle Grade, Paranormal, Audiobook",,312,Hardcover
-287,377,Middlemarch,George Eliot,4.03,171784,9780451529176,0451529170,"Genres, Classics, Fiction, Historical Fiction, Literature, 19th Century, Victorian, Novels",,912,Mass Market Paperback
-288,378,The Monster at the End of this Book,Jon Stone,4.46,126099,9780375829130,037582913X,"Genres, Picture Books, Childrens, Fiction, Humor, Classics, Monsters, Storytime",,32,Hardcover
-289,379,Stardust,Neil Gaiman,4.1,472288,9780061142024,0061142026,"Genres, Fantasy, Fiction, Young Adult, Adventure, Audiobook, Magic, Science Fiction Fantasy",,248,Paperback
-290,380,Fifty Shades Darker,E.L. James,3.83,951056,9781612130583,1612130585,"Genres, Romance, Fiction, Erotica, BDSM, Contemporary, Contemporary Romance, Chick Lit","Fifty Shades, #2",532,Paperback
-291,381,Sophie’s Choice,William Styron,4.17,92936,9780679736370,0679736379,"Genres, Fiction, Historical Fiction, Holocaust, War, Classics, Historical, World War II",,562,Paperback
-292,382,Black Beauty,Anna Sewell,,290232,9780439228909,0439228905,"Genres, Classics, Fiction, Childrens, Animals, Young Adult, Horses, Historical Fiction",,245,Mass Market Paperback
-293,383,The Prince of Tides,Pat Conroy,4.26,212556,9780553381542,0553381547,"Genres, Fiction, Classics, Romance, Southern, Contemporary, Literary Fiction, Literature",,679,Paperback
-294,384,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,4.3,650175,9781442408920,1442408928,"Genres, Young Adult, LGBT, Contemporary, Fiction, Queer, Audiobook, Coming Of Age","Aristotle and Dante, #1",390,Hardcover
-295,386,Dead Until Dark,Charlaine Harris,3.97,552584,9780441008537,0441008534,"Genres, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Fiction, Mystery","Sookie Stackhouse, #1",292,Mass Market Paperback
-296,388,Number the Stars,Lois Lowry,4.19,598509,9780440227533,0440227534,"Genres, Historical Fiction, Young Adult, Fiction, Classics, Middle Grade, Historical, Childrens",,137,Mass Market Paperback
-297,389,Bridget Jones’s Diary,Helen Fielding,3.81,1005492,9780140280098,014028009X,"Genres, Fiction, Chick Lit, Romance, Contemporary, Humor, Comedy, Adult Fiction","Bridget Jones, #1",288,Hardcover
-298,390,Ignite Me,Tahereh Mafi,4.45,591183,9780062085597,B07H56SK9J,"Genres, Fantasy, Dystopia, Romance, Young Adult, Enemies To Lovers, Science Fiction, Fiction","Shatter Me, #3",408,Kindle Edition
-299,391,The Magician’s Nephew,C.S. Lewis,4.05,576678,9780060764906,0060764902,"Genres, Fantasy, Fiction, Young Adult, Childrens, Middle Grade, Christian, Adventure","Chronicles of Narnia, #6",221,Mass Market Paperback
-300,392,The Art of Racing in the Rain,Garth Stein,4.23,539090,9781554681723,1554681723,"Genres, Fiction, Animals, Dogs, Audiobook, Adult Fiction, Book Club, Contemporary",,336,Hardcover
-301,393,V for Vendetta,Alan Moore,4.26,317098,9781401207922,1401207928,"Genres, Graphic Novels, Comics, Fiction, Dystopia, Science Fiction, Graphic Novels Comics, Classics",,296,Hardcover
-302,394,Eleanor & Park,Rainbow Rowell,3.93,1224357,9781250012579,1250012570,"Genres, Young Adult, Romance, Fiction, Contemporary, Realistic Fiction, Audiobook, Coming Of Age",,328,Hardcover
-303,395,American Psycho,Bret Easton Ellis,3.81,340536,9780679735779,0679735771,"Genres, Fiction, Horror, Classics, Thriller, Crime, Contemporary, Novels",,399,Paperback
-304,396,War and Peace,Leo Tolstoy,4.16,350300,9780192833983,0192833987,"Genres, Classics, Fiction, Historical Fiction, Russia, Russian Literature, Literature, War",,1392,Paperback
-305,397,Franny and Zooey,J.D. Salinger,3.96,231732,9780316769020,0316769029,"Genres, Fiction, Short Stories, Literature, Classics, American, Novels, Literary Fiction",,201,Paperback
-306,398,Beowulf,Unknown,3.49,332790,9780393320978,0393320979,"Genres, Poetry, Fiction, Fantasy, Classics, Mythology, School, Literature",,259,Paperback
-307,400,Love You Forever,Robert Munsch,4.38,243360,9780920668375,0920668372,"Genres, Picture Books, Childrens, Fiction, Classics, Family, Love, Kids",,32,Paperback
-308,401,The Witches,Roald Dahl,4.18,414489,9780590032490,0590032496,"Genres, Fantasy, Childrens, Fiction, Classics, Middle Grade, Young Adult, Witches",,208,Paperback
-309,402,A Little Life,Hanya Yanagihara,4.3,805878,9780385539258,0385539258,"Genres, Fiction, Contemporary, Literary Fiction, LGBT, Queer, Mental Health, Novels",,720,Hardcover
-310,403,Allegiant,Veronica Roth,3.6,1105978,9780007524273,0007524277,"Genres, Young Adult, Dystopia, Fiction, Fantasy, Science Fiction, Romance, Adventure","Divergent, #3",531,Hardcover
-311,404,A Short History of Nearly Everything,Bill Bryson,4.22,406241,9780767908184,076790818X,"Genres, Nonfiction, Science, History, Audiobook, Humor, Physics, Popular Science",,544,Paperback
-312,405,Harry Potter Series Box Set,J.K. Rowling,4.73,297101,9780545044257,0545044251,"Genres, Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Classics","Harry Potter, #1-7",4100,Hardcover
-313,406,The Gunslinger,Stephen King,3.92,640743,9781501143519,1501143514,"Genres, Fantasy, Fiction, Horror, Science Fiction, Audiobook, Adventure, Science Fiction Fantasy","The Dark Tower, #1",231,Paperback
-314,407,If I Stay,Gayle Forman,3.91,946043,9780525421030,0525421033,"Genres, Young Adult, Romance, Contemporary, Fiction, Realistic Fiction, Teen, Music","If I Stay, #1",208,Hardcover
-315,408,The Power of One,Bryce Courtenay,4.35,91852,9780345410054,034541005X,"Genres, Fiction, Historical Fiction, Africa, Classics, South Africa, Coming Of Age, Historical","The Power of One, #1",544,Paperback
-316,409,The Complete Novels,Jane Austen,4.57,33701,9780140259445,0140259449,"Genres, Classics, Fiction, Romance, Historical Fiction, Literature, Historical, Classic Literature",,1344,Paperback
-317,410,Gulliver’s Travels,Jonathan Swift,3.59,289443,9780141439495,B06XVF5QFY,"Genres, Classics, Fiction, Fantasy, Adventure, Literature, Novels, 18th Century",,306,Paperback
-318,411,The Eye of the World,Robert Jordan,4.19,561639,9780812511819,0812511816,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Adventure","The Wheel of Time, #1",800,Mass Market Paperback
-319,412,The House of Hades,Rick Riordan,4.57,456454,9781423146728,1423146727,"Genres, Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #4",597,Hardcover
-320,413,Tuck Everlasting,Natalie Babbitt,3.9,285711,9780374480097,0374480095,"Genres, Fantasy, Classics, Young Adult, Fiction, Childrens, Middle Grade, School",,148,Paperback
-321,414,It Ends with Us,Colleen Hoover,4.12,4233241,9781668021040,1668021048,"Genres, Fiction, Contemporary, Audiobook, New Adult, Contemporary Romance, Abuse, Chick Lit","It Ends with Us, #1",386,Kindle Edition
-322,415,Fifty Shades Freed,E.L. James,3.83,892739,9780345803504,B00DNW19FC,"Genres, Romance, Erotica, Fiction, BDSM, Contemporary, Contemporary Romance, Chick Lit","Fifty Shades, #3",579,Paperback
-323,417,’Salem’s Lot,Stephen King,4.1,623014,9780450031069,0450031063,"Genres, Horror, Fiction, Vampires, Fantasy, Thriller, Paranormal, Audiobook",,483,Paperback
-324,418,A Portrait of the Artist as a Young Man,James Joyce,3.64,158707,9780142437346,0142437344,"Genres, Classics, Fiction, Literature, Irish Literature, Ireland, Novels, 20th Century",,329,Paperback
-325,420,11/22/63,Stephen King,4.34,593292,9781451627282,1451627289,"Genres, Fiction, Historical Fiction, Science Fiction, Time Travel, Horror, Fantasy, Thriller",,849,Hardcover
-326,421,The Grapes of Wrath,John Steinbeck,4.02,954793,9780670016907,067001690X,"Genres, Classics, Fiction, Historical Fiction, Literature, Novels, School, American",,496,Hardcover
-327,422,Heir of Fire,Sarah J. Maas,4.46,1277428,9781619630659,1619630656,"Genres, Young Adult, Romance, Fantasy, Fiction, Magic, Fae, Romantasy","Throne of Glass, #3",565,Hardcover
-328,423,Inferno,Dante Alighieri,4.03,195592,9780812970067,B0BQJ59T18,"Genres, Classics, Poetry, Fiction, Literature, Religion, Fantasy, School",,490,Kindle Edition
-329,425,Fourth Wing,Rebecca Yarros,4.58,2778289,9781649374042,1649374046,"Genres, Romantasy, Dragons, Fiction, Audiobook, Enemies To Lovers, Fantasy Romance, Magic","The Empyrean, #1",498,Hardcover
-330,426,Tao Te Ching,Lao Tzu,4.29,172111,9780679724346,0679724346,"Genres, Philosophy, Nonfiction, Classics, Spirituality, Poetry, China, Self Help",,107,Paperback
-331,427,Cold Mountain,Charles Frazier,3.89,246749,9780802142849,0802142842,"Genres, Historical Fiction, Fiction, Historical, Romance, Civil War, War, Classics",,449,Paperback
-332,428,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,242797,9780553212280,0553212281,"Genres, Classics, Horror, Fiction, Short Stories, Poetry, Gothic, Mystery",,448,Mass Market Paperback
-333,430,Cloud Atlas,David Mitchell,4.01,258864,9780375507250,B00A2M3QD4,"Genres, Fiction, Science Fiction, Fantasy, Historical Fiction, Dystopia, Literary Fiction, Contemporary",,509,Paperback
-334,431,Go Ask Alice,Beatrice Sparks,3.74,283714,9781416914631,1416914633,"Genres, Young Adult, Fiction, Classics, Contemporary, Mental Health, Banned Books, Realistic Fiction",,213,Paperback
-335,432,The Hunchback of Notre-Dame,Victor Hugo,4.02,210004,9780451527882,0451527887,"Genres, Fiction, Classics, Historical Fiction, France, Literature, Gothic, French Literature",,510,Paperback
-336,433,Eldest,Christopher Paolini,4.04,473102,9780375840401,0375840400,"Genres, Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy","The Inheritance Cycle, #2",704,Paperback
-337,435,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,628127,9780451528957,0451528956,"Genres, Horror, Gothic, Mystery, Science Fiction, Fantasy, Audiobook, Literature",,139,Mass Market Paperback
-338,436,The Martian Chronicles,Ray Bradbury,4.16,275316,9780553278224,B00LNVWRG0,"Genres, Science Fiction, Fiction, Classics, Short Stories, Fantasy, Science Fiction Fantasy, Audiobook",,182,Mass Market Paperback
-339,437,Dark Lover,J.R. Ward,4.16,345527,9780451216953,0451216954,"Genres, Paranormal, Vampires, Paranormal Romance, Fantasy, Urban Fantasy, Fiction, Supernatural","Black Dagger Brotherhood, #1",393,Mass Market Paperback
-340,438,Brisingr,Christopher Paolini,4.1,398804,9780375826726,0375826726,"Genres, Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy",The Inheritance Cycle #3,748,Hardcover
-341,440,Steppenwolf,Hermann Hesse,4.13,201227,9780140282580,0140282580,"Genres, Fiction, Classics, Philosophy, German Literature, Literature, Novels, Germany",,256,Paperback
-342,441,Beautiful Creatures,Kami Garcia,3.77,613053,9780316042673,0316042676,"Genres, Fantasy, Young Adult, Romance, Paranormal, Fiction, Magic, Supernatural","Caster Chronicles, #1",563,Hardcover
-343,442,The BFG,Roald Dahl,4.23,507685,9780141311371,0141311371,"Genres, Fantasy, Childrens, Fiction, Middle Grade, Young Adult, Humor, Adventure",,199,Paperback
-344,445,Red Queen,Victoria Aveyard,3.99,1105466,9780062310637,0062310631,"Genres, Young Adult, Dystopia, Romance, Fiction, Young Adult Fantasy, Audiobook, Magic","Red Queen, #1",388,Hardcover
-345,446,Hidden Pictures,Jason Rekulak,4.16,447917,9781250819345,1250819342,"Genres, Horror, Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Paranormal",,372,Hardcover
-346,447,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,3.92,1320116,9781594744761,1594744769,"Genres, Fantasy, Young Adult, Fiction, Paranormal, Mystery, Horror, Historical Fiction","Miss Peregrine's Peculiar Children, #1",352,Hardcover
-347,448,Stargirl,Jerry Spinelli,3.77,332342,9780439488402,0439488400,"Genres, Young Adult, Fiction, Contemporary, Romance, Realistic Fiction, Middle Grade, Childrens","Stargirl, #1",186,Paperback
-348,450,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,207938,9780312282998,B007C4D1G2,"Genres, Fiction, Historical Fiction, Novels, Literary Fiction, Literature, Historical, Contemporary",,639,Paperback
-349,451,Where the Crawdads Sing,Delia Owens,4.38,3376781,9780735219113,0735219117,"Genres, Fiction, Historical Fiction, Mystery, Audiobook, Romance, Contemporary, Historical",,384,ebook
-350,453,The Amber Spyglass,Philip Pullman,4.1,372702,9780440238157,0440238153,"Genres, Fantasy, Young Adult, Fiction, Adventure, Audiobook, Science Fiction, Childrens","His Dark Materials, #3",465,Mass Market Paperback
-351,454,City of Heavenly Fire,Cassandra Clare,4.38,403201,9781481426305,1481426303,"Genres, Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #6",725,Hardcover
-352,455,زندگی مه آلود پریا,سید مرتضی مصطفوی,3.34,1031,9786007072714,6007072711,"Genres, Fiction",,204,ebook
-353,457,Circe,Madeline Miller,4.23,1217108,9780316556347,0316556343,"Genres, Fantasy, Fiction, Mythology, Historical Fiction, Greek Mythology, Audiobook, Retellings",,393,Hardcover
-354,458,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.78,238678,9780060589462,0060589469,"Genres, Philosophy, Fiction, Classics, Spirituality, Travel, Psychology, Self Help","Phaedrus, #1",540,Mass Market Paperback
-355,459,The Firm,Robin Waterfield,4.06,633429,9780582418271,0582418275,"Genres, Fiction, Thriller, Mystery, Crime, Suspense, Mystery Thriller, Legal Thriller",,76,Paperback
-356,461,Doctor Zhivago,Boris Pasternak,4.01,99986,9780679774389,0679774386,"Genres, Fiction, Historical Fiction, Russia, Russian Literature, Classics, Romance, Literature",,592,Paperback
-357,462,Dear John,Nicholas Sparks,4.04,610444,9780446528054,0446528056,"Genres, Romance, Fiction, Chick Lit, Contemporary, Contemporary Romance, Young Adult, Adult Fiction",,276,Hardcover
-358,463,Coraline,Neil Gaiman,4.13,746739,9780061139376,0061139378,"Genres, Fantasy, Horror, Fiction, Young Adult, Middle Grade, Childrens, Audiobook",,176,Paperback
-359,464,The English Patient,Michael Ondaatje,3.86,136025,9780771068713,0771068719,"Genres, Fiction, Historical Fiction, Classics, Romance, War, Historical, Canada",,320,Hardcover
-360,465,Midnight’s Children,Salman Rushdie,3.98,129100,9780099578512,0099578514,"Genres, Fiction, Magical Realism, Classics, India, Historical Fiction, Fantasy, Literature",,647,Paperback
-361,466,The Last Song,Nicholas Sparks,4.16,565019,9780446547567,B0046NN9AU,"Genres, Romance, Fiction, Young Adult, Contemporary, Chick Lit, Drama, Contemporary Romance",,390,Paperback
-362,467,A Court of Mist and Fury,Sarah J. Maas,4.64,2742893,9781635575583,1635575583,"Genres, Fantasy, Romance, Romantasy, Young Adult, Fiction, New Adult, Fae","A Court of Thorns and Roses, #2",626,Paperback
-363,468,All the Bright Places,Jennifer Niven,4.12,604253,9780385755887,0385755880,"Genres, Young Adult, Romance, Contemporary, Fiction, Mental Health, Realistic Fiction, Mental Illness",,388,Hardcover
-364,470,Crescendo,Becca Fitzpatrick,3.98,332266,9781416989431,1416989439,"Genres, Young Adult, Fantasy, Romance, Angels, Paranormal, Paranormal Romance, Fiction","Hush, Hush, #2",427,Hardcover
-365,472,Crown of Midnight,Sarah J. Maas,4.36,1452603,9781619630628,1619630621,"Genres, Young Adult, Romance, Fiction, Magic, Romantasy, Young Adult Fantasy, High Fantasy","Throne of Glass, #2",420,Hardcover
-366,473,Midnight in the Garden of Good and Evil,John Berendt,3.92,284397,9780679751526,0679751521,"Genres, Nonfiction, True Crime, Mystery, Crime, History, Classics, Audiobook",,386,Paperback
-367,474,A Streetcar Named Desire,Tennessee Williams,3.98,327489,9780822210894,0822210894,"Genres, Plays, Classics, Fiction, Drama, School, Read For School, Literature",,107,Paperback
-368,475,My Ántonia,Willa Cather,3.84,142916,9781583485095,1583485090,"Genres, Fiction, Historical Fiction, Classics, Literature, School, American, Historical",,219,Paperback
-369,476,The One,Kiera Cass,4.14,741238,9780062059994,0062059998,"Genres, Romance, Young Adult, Dystopia, Fantasy, Fiction, Audiobook, Science Fiction","The Selection, #3",323,Hardcover
-370,477,The Invisible Life of Addie LaRue,Victoria E. Schwab,4.18,1308636,9780765387561,0765387565,"Genres, Fantasy, Fiction, Romance, Historical Fiction, Historical, Magical Realism, LGBT",,448,Hardcover
-371,478,Local Woman Missing,Mary Kubica,4.13,629481,9780778311669,077831166X,"Genres, Thriller, Mystery, Mystery Thriller, Audiobook, Fiction, Suspense, Crime",,356,Paperback
-372,479,Breakfast of Champions,Kurt Vonnegut Jr.,4.06,271423,9780385334204,0385334206,"Genres, Fiction, Classics, Science Fiction, Humor, Literature, Novels, American",,303,Paperback
-373,481,The Prince,Niccolò Machiavelli,3.84,362710,9780937832387,0937832383,"Genres, Philosophy, Nonfiction, Politics, History, Political Science, Literature, Italy",,144,Paperback
-374,483,The Virgin Suicides,Jeffrey Eugenides,3.79,381025,9780747560593,0747560595,"Genres, Fiction, Young Adult, Literary Fiction, Coming Of Age, Mental Health, Contemporary, Novels",,250,Paperback
-375,485,Daughter of Smoke & Bone,Laini Taylor,3.99,379088,9780316134026,0316134023,"Genres, Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Angels, Fiction","Daughter of Smoke & Bone, #1",418,Hardcover
-376,486,A Fine Balance,Rohinton Mistry,4.38,154810,9781400030651,140003065X,"Genres, Fiction, Historical Fiction, India, Indian Literature, Literary Fiction, Historical, Asia",,603,Paperback
-377,487,Hopeless,Colleen Hoover,4.23,640894,9781301949823,B08GWTKXCP,"Genres, Romance, New Adult, Young Adult, Contemporary, Fiction, Contemporary Romance, Abuse","Hopeless, #1",410,Kindle Edition
-378,488,Queen of Shadows,Sarah J. Maas,4.62,1142321,9781619636040,1619636042,"Genres, Young Adult, Romance, Fiction, Fae, Magic, Romantasy, Young Adult Fantasy","Throne of Glass, #4",648,Hardcover
-379,489,"Red, White & Royal Blue",Casey McQuiston,4.06,1140209,9781250316776,1250316774,"Genres, Romance, LGBT, Contemporary, Fiction, Queer, Young Adult, Enemies To Lovers",,448,Paperback
-380,490,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,977692,9781400064168,1400064163,"Genres, Nonfiction, History, Biography, World War II, War, Historical, Audiobook",,475,Hardcover
-381,492,A Feast for Crows,George R.R. Martin,4.17,766454,9780553582024,B005JV4KFG,"Genres, Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #4",1060,Mass Market Paperback
-382,493,Death of a Salesman,Arthur Miller,3.58,248305,9780435233075,0435233076,"Genres, Classics, Plays, Fiction, Drama, School, Theatre, Literature",,144,Hardcover
-383,494,Carrie,Stephen King,3.99,793640,9781416524304,1416524304,"Genres, Horror, Fiction, Thriller, Classics, Fantasy, Paranormal, Supernatural",,272,Mass Market Paperback
-384,495,Flowers in the Attic,V.C. Andrews,3.85,227705,9780743496315,B000FCSIOS,"Genres, Fiction, Horror, Young Adult, Classics, Gothic, Mystery, Thriller","Dollanganger, #1",389,Paperback
-385,496,Pippi Longstocking,Astrid Lindgren,4.15,205101,9780142402498,0142402494,"Genres, Classics, Childrens, Fiction, Middle Grade, Fantasy, Young Adult, Humor","Pippi Långstrump, #1",160,Mass Market Paperback
-386,497,The Hate U Give,Angie Thomas,4.46,966573,9780062498533,0062498533,"Genres, Young Adult, Fiction, Contemporary, Audiobook, Realistic Fiction, Race, Social Justice","The Hate U Give, #1",454,Hardcover
-387,498,Evermore,Alyson Noel,3.59,295741,9780312532758,031253275X,"Genres, Young Adult, Fantasy, Paranormal, Romance, Paranormal Romance, Fiction, Supernatural","The Immortals, #1",301,Paperback
-388,499,We Were Liars,E. Lockhart,3.66,1236013,9780385741279,0385741278,"Genres, Young Adult, Mystery, Fiction, Contemporary, Romance, Thriller, Mystery Thriller",,242,Kindle Edition
-389,500,The Scarlet Pimpernel,Emmuska Orczy,4.07,138835,9781576469231,1576469239,"Genres, Classics, Historical Fiction, Fiction, Adventure, Historical, Mystery, France",,182,Paperback
-390,501,The Nightingale,Kristin Hannah,4.64,1743746,9780312577223,0312577222,"Genres, Historical Fiction, Fiction, Historical, Audiobook, World War II, War, Romance",,564,Hardcover
-391,502,I Know Why the Caged Bird Sings,Maya Angelou,4.3,557511,9780553279375,B00P4JQBIC,"Genres, Nonfiction, Classics, Memoir, Biography, Autobiography, Poetry, Feminism","Maya Angelou's Autobiography, #1",289,Paperback
-392,503,The Host,Stephenie Meyer,3.86,1032867,9780316068048,0316068047,"Genres, Fantasy, Young Adult, Science Fiction, Romance, Fiction, Dystopia, Paranormal","The Host, #1",619,Hardcover
-393,504,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,,725687,9780609608449,0609608444,"Genres, Nonfiction, History, True Crime, Crime, Historical, Mystery, Audiobook",,464,Hardcover
-394,505,Persuasion,Jane Austen,4.15,738884,9780192802637,0192802631,"Genres, Fiction, Classics, Historical Fiction, Audiobook, Historical, Literature, 19th Century",,249,Paperback
-395,507,The Raven Boys,Maggie Stiefvater,4.05,388254,9780545424929,0545424925,"Genres, Fantasy, Young Adult, Paranormal, Romance, Fiction, Audiobook, Urban Fantasy","The Raven Cycle, #1",409,Hardcover
-396,509,Sharp Objects,Gillian Flynn,4.01,1148397,9780297851530,0297851535,"Genres, Mystery, Thriller, Fiction, Mystery Thriller, Crime, Audiobook, Suspense",,254,Paperback
-397,511,Anna and the French Kiss,Stephanie Perkins,3.96,460405,9780525423270,0525423273,"Genres, Romance, Young Adult, Contemporary, Fiction, Chick Lit, Realistic Fiction, Contemporary Romance","Anna and the French Kiss, #1",372,Hardcover
-398,512,Northanger Abbey,Jane Austen,3.85,429190,9781593082642,1593082649,"Genres, Classics, Fiction, Gothic, Historical Fiction, Literature, Audiobook, Historical",,260,Paperback
+0,1,The Hunger Games,Suzanne Collins,4.34,9318770,9780439023481,0439023483,"Young Adult, Fiction, Fantasy, Science Fiction, Audiobook, Teen, Post Apocalyptic","The Hunger Games, #1",374,Hardcover
+1,2,Harry Potter and the Order of the Phoenix,J.K. Rowling,4.5,3616863,Not found,0439686520,"Fantasy, Young Adult, Fiction, Magic, Audiobook, Childrens, Adventure","Harry Potter, #5",912,Paperback
+2,3,Pride and Prejudice,Jane Austen,4.29,4517843,9781441341709,1441341706,"Fiction, Historical Fiction, Historical, Literature, Audiobook, Novels, Historical Romance",,279,Paperback
+3,4,To Kill a Mockingbird,Harper Lee,4.26,6564282,9780060935467,0060935464,"Fiction, Historical Fiction, School, Literature, Young Adult, Historical, Read For School",,323,Paperback
+4,6,Twilight,Stephenie Meyer,3.66,7001576,9780316015844,0316015849,"Fantasy, Young Adult, Romance, Fiction, Vampires, Paranormal, Paranormal Romance","The Twilight Saga, #1",498,Paperback
+5,7,Animal Farm,George Orwell,,4227932,9780451526342,B0D7LQMF4N,"Fiction, Dystopia, Fantasy, School, Literature, Science Fiction, Novels",,141,Mass Market Paperback
+6,8,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,139673,9780345538376,0345538374,"Fantasy, Fiction, Classics, Adventure, Science Fiction Fantasy, Epic Fantasy, High Fantasy",,1728,Mass Market Paperback
+7,9,The Chronicles of Narnia,C.S. Lewis,4.28,685690,9780066238500,0066238501,"Fantasy, Classics, Fiction, Young Adult, Childrens, Christian, Middle Grade","The Chronicles of Narnia, #1-7",767,Paperback
+8,12,The Giving Tree,Shel Silverstein,4.38,1190454,9780060256654,0060256656,"Childrens, Classics, Fiction, Picture Books, Poetry, Young Adult, Fantasy",,64,Hardcover
+9,14,Gone with the Wind,Margaret Mitchell,4.31,1247885,9780446365383,0446365386,"Classics, Historical Fiction, Fiction, Romance, Historical, Literature, War",,1037,Mass Market Paperback
+10,15,The Lightning Thief,Rick Riordan,4.31,3264460,9780786838653,0786838655,"Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #1",377,Paperback
+11,17,The Little Prince,Antoine de Saint-Exupéry,4.33,2302532,9780152023980,0152023984,"Classics, Fiction, Fantasy, Childrens, France, Philosophy, Young Adult",,96,Hardcover
+12,18,Jane Eyre,Charlotte Brontë,4.15,2219334,9780142437209,0142437204,"Fiction, Gothic, Historical Fiction, Literature, Historical, School, Audiobook",,532,Paperback
+13,19,The Great Gatsby,F. Scott Fitzgerald,3.93,5602558,9780743273565,0743273567,"Fiction, School, Historical Fiction, Romance, Literature, Novels, Read For School",,180,Paperback
+14,23,Divergent,Veronica Roth,4.14,4216029,9780062024039,0062024035,"Young Adult, Dystopia, Fantasy, Fiction, Science Fiction, Romance, Teen","Divergent, #1",487,Paperback
+15,24,Memoirs of a Geisha,Arthur Golden,4.16,2062520,9781400096893,1400096898,"Fiction, Historical Fiction, Romance, Historical, Novels, Asia, Adult Fiction",,503,Mass Market Paperback
+16,25,Les Misérables,Victor Hugo,4.21,824467,9780451525260,0451525264,"Fiction, Historical Fiction, Literature, France, Historical, Novels, French Literature",,1463,Mass Market Paperback
+17,26,The Alchemist,Paulo Coelho,3.92,3337364,9780061122415,B00A2KBUGQ,"Fiction, Fantasy, Philosophy, Self Help, Novels, Spirituality, Audiobook",,197,Paperback
+18,27,Anne of Green Gables,L.M. Montgomery,4.32,1054161,9780451528827,0451528824,"Classics, Fiction, Young Adult, Historical Fiction, Childrens, Middle Grade, Audiobook","Anne of Green Gables, #1",320,Mass Market Paperback
+19,28,Lord of the Flies,William Golding,3.7,3065278,9780140283334,0140283331,"Fiction, Classics, Young Adult, School, Dystopia, Literature, Read For School",,182,Paperback
+20,29,Romeo and Juliet,William Shakespeare,3.74,2725967,9780743477116,0743477111,"Classics, Plays, Fiction, School, Read For School, Literature, High School",,281,Mass Market Paperback
+21,31,City of Bones,Cassandra Clare,4.07,2098845,9781416914280,1416914285,"Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Fiction, Vampires","The Mortal Instruments, #1",485,Hardcover
+22,32,The Help,Kathryn Stockett,4.46,2919452,9780399155345,B009CUIY52,"Fiction, Historical Fiction, Historical, Adult Fiction, Contemporary, Audiobook, Book Club",,464,Hardcover
+23,33,Dracula,Bram Stoker,4.02,1382011,9780393970128,0393970124,"Horror, Fiction, Fantasy, Gothic, Paranormal, Literature, Vampires",,488,Paperback
+24,34,Charlotte’s Web,E.B. White,4.2,1956918,9780064410939,0064410935,"Fiction, Childrens, Classics, Fantasy, Young Adult, Middle Grade, Animals",,184,Paperback
+25,35,Ender’s Game,Orson Scott Card,4.31,1431622,9780812550702,0812550706,"Science Fiction, Fiction, Young Adult, Fantasy, Classics, Science Fiction Fantasy, Dystopia","Ender's Saga, #1",324,Mass Market Paperback
+26,37,Of Mice and Men,John Steinbeck,3.89,2700572,9780142000670,0142000671,"Fiction, School, Historical Fiction, Literature, Read For School, Novels, High School",,107,Paperback
+27,38,Brave New World,Aldous Huxley,3.99,1971576,9780060929879,0060929871,"Fiction, Science Fiction, Dystopia, Literature, Novels, School, Audiobook",,268,Paperback
+28,39,The Catcher in the Rye,J.D. Salinger,3.8,3734101,9780316769174,0316769177,"Classics, Fiction, Young Adult, Literature, School, Coming Of Age, Novels",,277,Paperback
+29,41,A Thousand Splendid Suns,Khaled Hosseini,4.45,1641637,9781594489501,B002FVPH5A,"Fiction, Historical Fiction, Historical, Classics, Novels, War, Literary Fiction",,372,Hardcover
+30,44,The Outsiders,S.E. Hinton,4.14,1487514,9780670532575,0670532576,"Classics, Young Adult, Fiction, School, Read For School, Coming Of Age, Realistic Fiction",,208,Mass Market Paperback
+31,45,The Princess Bride,William Goldman,4.27,925418,9780345418265,0345418263,"Fantasy, Fiction, Romance, Humor, Adventure, Young Adult, Classics",,429,Paperback
+32,46,The Secret Garden,Frances Hodgson Burnett,4.16,1238963,9780517189603,0517189607,"Fiction, Classics, Childrens, Young Adult, Historical Fiction, Middle Grade, Audiobook",,331,Hardcover
+33,47,The Time Traveler's Wife,Audrey Niffenegger,,1830878,9781939126016,1939126010,"Fiction, Romance, Fantasy, Time Travel, Science Fiction, Contemporary, Chick Lit",,537,ebook
+34,48,A Game of Thrones,George R.R. Martin,4.45,2631401,9780553588484,0553588486,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Adventure","A Song of Ice and Fire, #1",835,Mass Market Paperback
+35,51,A Wrinkle in Time,Madeleine L'Engle,3.98,1246378,9781250153272,1250153271,"Fantasy, Fiction, Classics, Young Adult, Science Fiction, Childrens, Middle Grade","Time Quintet, #1",218,Paperback
+36,52,The Odyssey,Homer,3.82,1136887,9780143039952,0143039954,"Fiction, Poetry, Mythology, Fantasy, School, Literature, Adventure",,541,Paperback
+37,53,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.88,1728881,9780143131847,0143131842,"Horror, Fiction, Science Fiction, Gothic, Fantasy, School, Literature",,260,Paperback
+38,54,The Kite Runner,Khaled Hosseini,4.35,3336334,9781594631931,159463193X,"Fiction, Historical Fiction, Contemporary, Novels, Historical, School, Literature",,371,Paperback
+39,55,The Giver,Lois Lowry,4.12,2674765,9780385732550,0385732554,"Young Adult, Fiction, Classics, Dystopia, Science Fiction, Fantasy, School","The Giver, #1",208,Paperback
+40,56,The Handmaid’s Tale,Margaret Atwood,4.15,2236448,9780385490818,038549081X,"Fiction, Classics, Dystopia, Science Fiction, Feminism, Fantasy, Audiobook","The Handmaid's Tale, #1",311,Paperback
+41,57,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.58,4563162,9780439655484,043965548X,"Fantasy, Fiction, Young Adult, Magic, Childrens, Audiobook, Middle Grade","Harry Potter, #3",435,Mass Market Paperback
+42,58,Where the Wild Things Are,Maurice Sendak,4.25,1034305,9780099408390,B00BG704OS,"Picture Books, Childrens, Fiction, Classics, Fantasy, Adventure, Young Adult",,38,Paperback
+43,59,The Lovely Bones,Alice Sebold,3.86,2421669,9780316166683,0316166685,"Fiction, Mystery, Young Adult, Contemporary, Fantasy, Thriller, Crime",,372,Mass Market Paperback
+44,60,Green Eggs and Ham,Dr. Seuss,4.31,817071,9780394800165,B00297Y0JO,"Childrens, Picture Books, Classics, Fiction, Poetry, Fantasy, Humor",,64,Hardcover
+45,61,The Adventures of Huckleberry Finn,Mark Twain,3.83,1303886,9780142437179,0142437174,"Fiction, Classics, Historical Fiction, Literature, Adventure, Young Adult, School",,327,Paperback
+46,62,Dune,Frank Herbert,4.28,1527514,9780593099322,059309932X,"Science Fiction, Fantasy, Audiobook, Science Fiction Fantasy, Classics, Novels, Adventure","Dune, #1",658,Hardcover
+47,63,Life of Pi,Yann Martel,3.94,1700609,9780770430078,0770430074,"Fiction, Fantasy, Classics, Adventure, Magical Realism, Novels, Literature",,460,Paperback
+48,64,A Tale of Two Cities,Charles Dickens,3.87,986135,9780141439600,0141439602,"Classics, Fiction, Historical Fiction, Literature, Historical, Novels, School",,489,Paperback
+49,65,Lolita,Vladimir Nabokov,3.87,899617,9780679723165,0679723161,"Fiction, Literature, Russia, Novels, Romance, Russian Literature, Literary Fiction",,368,Paperback
+50,67,Water for Elephants,Sara Gruen,4.11,1666323,9781565125605,1565125606,"Fiction, Historical Fiction, Romance, Historical, Adult Fiction, Contemporary, Audiobook",,368,Paperback
+51,68,The Bell Jar,Sylvia Plath,4.06,1100469,9780571268863,0571268862,"Fiction, Feminism, Mental Health, Psychology, Literature, Literary Fiction, Novels",,294,Paperback
+52,69,Matilda,Roald Dahl,4.33,1038199,9780435123987,043512398X,"Fiction, Childrens, Classics, Fantasy, Middle Grade, Young Adult, Humor",,240,Hardcover
+53,71,Catch-22,Joseph Heller,3.99,861661,9780684833392,0684833395,"Classics, Fiction, Historical Fiction, War, Humor, Literature, Novels",,453,Paperback
+54,72,The Girl With the Dragon Tattoo,Stieg Larsson,4.17,3332725,9780670069019,0670069019,"Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Contemporary",Millennium #1,480,Hardcover
+55,74,The Pillars of the Earth,Ken Follett,4.34,797476,9780451222138,045122213X,"Historical Fiction, Fiction, Historical, Fantasy, Classics, Audiobook, Medieval","Kingsbridge, #1",976,Paperback
+56,75,Watership Down,Richard Adams,4.09,494130,9780380395866,038039586X,"Classics, Fiction, Fantasy, Young Adult, Animals, Adventure, Childrens","Watership Down, #1",478,Mass Market Paperback
+57,76,Rebecca,Daphne du Maurier,4.25,678317,9780316323703,B00HG5I1TE,"Fiction, Mystery, Gothic, Romance, Classics, Historical Fiction, Thriller",,449,Kindle Edition
+58,77,Great Expectations,Charles Dickens,3.8,844988,9780192833594,0192833596,"Classics, Fiction, Literature, Historical Fiction, School, Novels, Classic Literature",,544,Paperback
+59,78,The Color Purple,Alice Walker,4.27,724773,9780143135692,0143135694,"Fiction, Historical Fiction, Feminism, LGBT, Historical, Queer, Banned Books",,287,Paperback
+60,79,Outlander,Diana Gabaldon,4.26,1116518,9780440242949,0440242940,"Historical Fiction, Romance, Fantasy, Fiction, Time Travel, Historical, Historical Romance","Outlander, #1",850,Mass Market Paperback
+61,80,Anna Karenina,Leo Tolstoy,4.1,889947,9780345803924,0345803922,"Fiction, Romance, Russia, Historical Fiction, Literature, Russian Literature, Novels",,964,Paperback
+62,83,My Sister’s Keeper,Jodi Picoult,4.1,1254269,9780743454537,0743454537,"Fiction, Chick Lit, Young Adult, Drama, Adult Fiction, Realistic Fiction, Contemporary",,423,Paperback
+63,84,The Brothers Karamazov,Fyodor Dostoevsky,4.38,358572,9780374528379,0374528373,"Fiction, Russia, Classics, Russian Literature, Literature, Philosophy, Novels",,796,Paperback
+64,85,A Tree Grows in Brooklyn,Betty Smith,4.3,489023,9780061120077,0061120073,"Fiction, Historical Fiction, Classics, Young Adult, Coming Of Age, Historical, New York",,496,Paperback
+65,86,A Clockwork Orange,Anthony Burgess,,743872,9780393341768,0393341763,"Fiction, Science Fiction, Dystopia, Horror, Literature, Novels, Banned Books",,240,Paperback
+66,88,The Road,Cormac McCarthy,3.99,974995,9780307265432,0307265439,"Fiction, Science Fiction, Dystopia, Post Apocalyptic, Horror, Literature, Novels",,241,Hardcover
+67,89,The Golden Compass,Philip Pullman,4.03,1578839,9780679879244,B001NAR73E,"Fantasy, Young Adult, Fiction, Childrens, Adventure, Middle Grade, Audiobook","His Dark Materials, #1",399,Hardcover
+68,90,Vampire Academy,Richelle Mead,4.11,667681,9781595141743,159514174X,"Fantasy, Young Adult, Vampires, Paranormal, Romance, Urban Fantasy, Fiction","Vampire Academy, #1",332,Paperback
+69,92,Angela’s Ashes,Frank McCourt,4.15,645632,9780007205233,0007205236,"Nonfiction, Memoir, Biography, Classics, Ireland, Autobiography, Biography Memoir","Frank McCourt, #1",452,Paperback
+70,95,The Old Man and the Sea,Ernest Hemingway,3.81,1236234,9780684830490,0684830493,"Fiction, Literature, Novels, School, American, Adventure, Literary Fiction",,96,Hardcover
+71,96,The Poisonwood Bible,Barbara Kingsolver,4.1,769680,9780060786502,0060786507,"Fiction, Historical Fiction, Africa, Classics, Literary Fiction, Historical, Literature",,546,Paperback
+72,97,And Then There Were None,Agatha Christie,4.28,1497601,9780312330873,0312330871,"Mystery, Fiction, Thriller, Crime, Mystery Thriller, Classics, Audiobook",,264,Paperback
+73,98,The Complete Stories and Poems,Edgar Allan Poe,4.4,287738,9780385074070,0385074077,"Classics, Poetry, Horror, Fiction, Short Stories, Gothic, Mystery",,821,Hardcover
+74,99,Atlas Shrugged,Ayn Rand,3.69,399733,9780452011878,0452011876,"Fiction, Classics, Philosophy, Politics, Literature, Science Fiction, Novels",,1168,Paperback
+75,100,Interview with the Vampire,Anne Rice,4.02,624171,9780345476876,0345476875,"Horror, Fantasy, Fiction, Vampires, Paranormal, Classics, Gothic","The Vampire Chronicles, #1",346,Paperback
+76,101,Winnie-the-Pooh,A.A. Milne,4.38,386930,9780525467564,0525467564,"Childrens, Fiction, Classics, Fantasy, Animals, Audiobook, Middle Grade","Winnie-the-Pooh, #1",161,Hardcover
+77,104,Fahrenheit 451,Ray Bradbury,3.97,2635709,9780307347978,0307347974,"Fiction, Science Fiction, Dystopia, School, Literature, Novels, Audiobook",,158,Mass Market Paperback
+78,105,The Shining,Stephen King,4.28,1615787,9780450040184,0450040186,"Horror, Fiction, Thriller, Classics, Fantasy, Paranormal, Mystery","The Shining, #1",497,Paperback
+79,106,"Moby-Dick or, The Whale",Herman Melville,3.56,593435,9780142437247,0142437247,"Fiction, Literature, Adventure, Historical Fiction, Novels, American, 19th Century",,720,Paperback
+80,107,A Prayer for Owen Meany,John Irving,4.24,329220,9780552135399,0552135399,"Fiction, Classics, Contemporary, Literature, Literary Fiction, Historical Fiction, Novels",,637,Paperback
+81,109,Clockwork Angel,Cassandra Clare,4.31,857912,9781416975861,1416975861,"Fantasy, Young Adult, Romance, Paranormal, Steampunk, Historical Fiction, Fiction","The Infernal Devices, #1",479,Hardcover
+82,111,The Secret Life of Bees,Sue Monk Kidd,4.1,1326085,9780142001745,0142001740,"Fiction, Historical Fiction, Classics, Young Adult, Historical, Contemporary, Coming Of Age",,302,Paperback
+83,112,It,Stephen King,4.24,1202429,9780450411434,0450411435,"Horror, Fiction, Thriller, Fantasy, Classics, Audiobook, Mystery",,1184,Paperback
+84,114,The Red Tent,Anita Diamant,4.2,617456,9780312353766,0312353766,"Historical Fiction, Fiction, Historical, Religion, Book Club, Feminism, Womens",,324,Hardcover
+85,115,The Name of the Wind,Patrick Rothfuss,4.52,1030105,9780756404079,075640407X,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Magic, Science Fiction Fantasy","The Kingkiller Chronicle, #1",662,Hardcover
+86,116,The Metamorphosis,Franz Kafka,3.89,1279010,9780553213690,0553213695,"Classics, Fiction, Fantasy, Philosophy, Short Stories, Literature, School",,201,Mass Market Paperback
+87,117,The Master and Margarita,Mikhail Bulgakov,4.29,388621,9780679760801,0679760806,"Fiction, Russia, Fantasy, Russian Literature, Magical Realism, Literature, Novels",,372,Paperback
+88,119,The Count of Monte Cristo,Alexandre Dumas,4.31,967913,9780140449266,0140449264,"Fiction, Historical Fiction, Adventure, Literature, France, Historical, Audiobook",,1276,Paperback
+89,120,Eragon,Christopher Paolini,3.96,1873609,9780375826696,B0042B4JAK,"Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy",The Inheritance Cycle #1,503,Paperback
+90,121,The Last Olympian,Rick Riordan,4.55,1090250,9781423101475,1423101472,"Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #5",381,Hardcover
+91,122,The Very Hungry Caterpillar,Eric Carle,4.34,531355,9780241003008,B01BITQJP6,"Picture Books, Childrens, Fiction, Animals, Classics, Food, Counting",,26,Board book
+92,123,Looking for Alaska,John Green,3.96,1691145,9781435249158,1435249151,"Young Adult, Fiction, Contemporary, Romance, Realistic Fiction, Coming Of Age, Teen",,221,Paperback
+93,124,Middlesex,Jeffrey Eugenides,4.04,652075,9780312422158,0312422156,"Fiction, Historical Fiction, Contemporary, LGBT, Classics, Literary Fiction, Queer",,529,Paperback
+94,125,Charlie and the Chocolate Factory,Roald Dahl,4.16,892169,9780142403884,0142403881,"Fiction, Fantasy, Childrens, Young Adult, Middle Grade, Classics, Humor","Charlie Bucket, #1",176,Paperback
+95,126,The Adventures of Tom Sawyer,Mark Twain,3.92,981551,9780143039563,0143039563,"Fiction, Classics, Adventure, Historical Fiction, Young Adult, Literature, Childrens",,244,Paperback
+96,129,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,1545601,9781400032716,1400032717,"Fiction, Mystery, Young Adult, Classics, Autistic Spectrum Disorder, Novels, Contemporary",,226,Paperback
+97,131,The Unbearable Lightness of Being,Milan Kundera,4.11,511212,9780571224388,0571224385,"Fiction, Philosophy, Literature, Novels, Romance, Czech Literature, Classics",,314,Paperback
+98,132,The Name of the Rose,Umberto Eco,4.14,381445,9780156001311,0156001314,"Fiction, Historical Fiction, Mystery, Historical, Literature, Italy, Crime",,552,Paperback
+99,133,Holes,Louis Sachar,4.01,1301313,9780439244190,0439244196,"Young Adult, Fiction, Middle Grade, Childrens, Classics, School, Realistic Fiction","Holes, #1",272,Paperback
+100,134,On the Road,Jack Kerouac,3.61,431012,9780140042597,0140042598,"Fiction, Travel, Literature, Classics, Novels, American, Adventure",,307,Paperback
+101,135,Six of Crows,Leigh Bardugo,4.47,1065200,9781627792127,1627792120,"Fantasy, Young Adult, Fiction, Young Adult Fantasy, LGBT, Adventure, Magic","Six of Crows, #1",480,Hardcover
+102,136,Where the Red Fern Grows,Wilson Rawls,4.12,426836,9780375806810,0375806814,"Classics, Fiction, Young Adult, Childrens, Historical Fiction, Middle Grade, Animals",,272,Mass Market Paperback
+103,139,In Cold Blood,Truman Capote,4.09,698118,9780679745587,0679745580,"Nonfiction, True Crime, Crime, Mystery, History, Classics, Thriller",,343,Paperback
+104,140,The Scarlet Letter,Nathaniel Hawthorne,3.44,893265,9780142437261,0142437263,"Fiction, Historical Fiction, School, Literature, High School, Historical, Read For School",,279,Paperback
+105,142,Fight Club,Chuck Palahniuk,4.18,620755,9780393355949,0393355942,"Fiction, Classics, Thriller, Novels, Mystery, Literature, Audiobook",,224,Paperback
+106,143,The Five People You Meet in Heaven,Mitch Albom,,763446,9780786868711,0786868716,"Fiction, Contemporary, Inspirational, Fantasy, Classics, Spirituality, Philosophy",,196,Hardcover
+107,144,Watchmen,Alan Moore,4.38,578899,9780930289232,0930289234,"Graphic Novels, Fiction, Science Fiction, Fantasy, Graphic Novels Comics, Classics, Comic Book",,416,Paperback
+108,145,The Girl Who Played With Fire,Stieg Larsson,4.26,955897,9780307269980,0307269981,"Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Audiobook",Millennium #2,503,Hardcover
+109,146,The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,163495,9780679433132,0679433139,"Poetry, Fiction, Literature, Philosophy, Fantasy, Italian Literature, Italy",,798,Hardcover
+110,147,The Cat in the Hat,Dr. Seuss,4.19,567104,9780394800011,039480001X,"Childrens, Picture Books, Fiction, Poetry, Classics, Fantasy, Humor","Cat in the Hat, #1",61,Hardcover
+111,148,All Quiet on the Western Front,Erich Maria Remarque,4.09,490602,9780449213940,B00EJ3APSG,"Fiction, Historical Fiction, War, Classics, Historical, Literature, School",,296,Mass Market Paperback
+112,150,"Hush, Hush",Becca Fitzpatrick,3.92,729087,9781416989417,1416989412,"Fantasy, Young Adult, Romance, Paranormal, Angels, Paranormal Romance, Fiction","Hush, Hush, #1",391,Hardcover
+113,151,The Little House Collection,Laura Ingalls Wilder,4.36,155519,9780060529963,0060529962,"Classics, Historical Fiction, Childrens, Fiction, Young Adult, Historical, Middle Grade","Little House, #1-9",2700,Paperback
+114,152,Lonesome Dove,Larry McMurtry,4.55,211846,9780671683900,067168390X,"Fiction, Historical Fiction, Westerns, Classics, Historical, Adventure, Audiobook","Lonesome Dove, #1",960,Mass Market Paperback
+115,153,Catching Fire,Suzanne Collins,4.34,3856108,9780439023498,0439023491,"Young Adult, Fiction, Fantasy, Science Fiction, Romance, Audiobook, Teen","The Hunger Games, #2",391,Hardcover
+116,154,Peter Pan,J.M. Barrie,4.04,361614,9780805072457,0805072454,"Fantasy, Fiction, Childrens, Classics, Adventure, Audiobook, Young Adult",,155,Hardcover
+117,157,The Battle of the Labyrinth,Rick Riordan,4.42,1164473,9781423101468,1423101464,"Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #4",361,Hardcover
+118,158,Love in the Time of Cholera,Gabriel García Márquez,3.94,527673,9781400034680,140003468X,"Fiction, Historical Fiction, Magical Realism, Literature, Novels, Spanish Literature, Literary Fiction",,348,Paperback
+119,159,Gone Girl,Gillian Flynn,4.14,3296196,9780307588371,0307588378,"Fiction, Mystery, Thriller, Mystery Thriller, Crime, Suspense, Contemporary",,415,Paperback
+120,160,The Addiction Manifesto,Jerry Weaver,4.76,1238,9781638377634,1638377634,"Nonfiction, Self Help, Memoir, Psychology, Mental Health, Biography",,178,Paperback
+121,161,Insurgent,Veronica Roth,3.97,1573354,9780007442911,0007442912,"Young Adult, Dystopia, Fantasy, Fiction, Science Fiction, Romance, Adventure","Divergent, #2",525,Hardcover
+122,163,The Secret History,Donna Tartt,4.16,900547,9781400031702,1400031702,"Fiction, Mystery, Classics, Contemporary, Thriller, Literary Fiction, Mystery Thriller",,559,Paperback
+123,164,The Sea of Monsters,Rick Riordan,4.24,1285126,9780786856862,0786856866,"Fantasy, Young Adult, Mythology, Fiction, Middle Grade, Adventure, Greek Mythology","Percy Jackson and the Olympians, #2",279,Hardcover
+124,165,Clockwork Princess,Cassandra Clare,4.55,464113,9781406321340,1406321346,"Fantasy, Young Adult, Romance, Paranormal, Historical Fiction, Steampunk, Urban Fantasy","The Infernal Devices, #3",567,Paperback
+125,167,How the Grinch Stole Christmas!,Dr. Seuss,4.38,433741,9780007173044,0007173040,"Childrens, Picture Books, Christmas, Classics, Fiction, Poetry, Fantasy",,64,Hardcover
+126,168,The Ultimate Hitchhiker’s Guide to the Galaxy,Douglas Adams,4.38,332116,9780345453747,B00A2LZDTA,"Science Fiction, Fiction, Humor, Fantasy, Classics, Comedy, Science Fiction Fantasy","Hitchhiker's Guide to the Galaxy, #1-5",815,Paperback
+127,170,Shadow Kiss,Richelle Mead,4.33,375441,9781595141972,1595141979,"Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #3",443,Paperback
+128,171,The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,4.43,9670,9781557831576,B002K27PVS,"Plays, Classics, Humor, Drama, Fiction, Theatre, Comedy",,137,Kindle Edition
+129,172,The Elephant Tree,R.D. Ronald,3.78,31314,9781848764569,1848764561,"Thriller, Mystery, Fiction, Crime, Drama, Contemporary, Novels",,252,Paperback
+130,173,The Maze Runner,James Dashner,4.05,1611433,9780385737944,0385737947,"Young Adult, Dystopia, Science Fiction, Fiction, Fantasy, Audiobook, Post Apocalyptic","The Maze Runner, #1",384,Hardcover
+131,174,Their Eyes Were Watching God,Zora Neale Hurston,3.99,368978,9780061120060,0061120065,"Classics, Fiction, Historical Fiction, School, Literature, African American, Feminism",,238,Paperback
+132,175,The Importance of Being Earnest,Oscar Wilde,4.17,391057,9781580495806,158049580X,"Classics, Plays, Fiction, Drama, Humor, School, Literature",,89,Paperback
+133,176,Atonement,Ian McEwan,3.95,542752,9780385721790,B00A2M6OLU,"Fiction, Historical Fiction, Classics, Romance, Historical, War, Literary Fiction",,351,Paperback
+134,177,The Wonderful Wizard of Oz,L. Frank Baum,,489596,9780140621679,0140621679,"Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Audiobook","Oz, #1",154,Paperback
+135,180,"Eat, Pray, Love",Elizabeth Gilbert,3.64,1802879,9780143038412,0143038419,"Nonfiction, Memoir, Travel, Biography, Romance, Chick Lit, Spirituality",,368,Paperback
+136,181,The Lorax,Dr. Seuss,4.35,358821,9780679889106,0679889108,"Childrens, Picture Books, Fiction, Classics, Poetry, Fantasy, Environment",,72,Hardcover
+137,182,Goodnight Moon,Margaret Wise Brown,4.32,385904,9780060775858,0060775858,"Childrens, Picture Books, Fiction, Classics, Poetry, Kids, Animals",,32,Hardcover
+138,183,The Hunger Games Trilogy Boxset,Suzanne Collins,4.49,228722,9780545265355,0545265355,"Young Adult, Fiction, Fantasy, Dystopia, Science Fiction, Romance, Adventure","The Hunger Games, #1-3",1155,Hardcover
+139,184,A Midsummer Night’s Dream,William Shakespeare,3.94,560793,9780743477543,0743477545,"Plays, Fiction, Fantasy, School, Romance, Poetry, Literature",,298,Mass Market Paperback
+140,187,Murder on the Orient Express,Agatha Christie,4.2,682387,9780007119318,B006VWJ2XC,"Mystery, Classics, Fiction, Crime, Mystery Thriller, Audiobook, Thriller","Hercule Poirot, #10",274,Paperback
+141,189,Heart of Darkness,Joseph Conrad,3.43,536927,9781892295491,1892295490,"Fiction, Classics, Literature, Historical Fiction, Africa, School, Novels",,188,Paperback
+142,191,The Selection,Kiera Cass,4.07,1678338,9780062059932,B00BG7DY04,"Romance, Young Adult, Dystopia, Fantasy, Fiction, Audiobook, Science Fiction","The Selection, #1",336,Hardcover
+143,193,The Night Circus,Erin Morgenstern,4.01,1046317,9780385534635,0385534639,"Fantasy, Fiction, Romance, Historical Fiction, Magic, Young Adult, Audiobook",,506,Hardcover
+144,194,The Prophet,Kahlil Gibran,4.23,315757,9780001000391,000100039X,"Poetry, Classics, Philosophy, Fiction, Spirituality, Religion, Literature",,127,Paperback
+145,195,Blood Promise,Richelle Mead,4.3,321864,9781595141989,B0057DB4HI,"Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #4",503,Hardcover
+146,196,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.4,3642100,9781501139239,1501139231,"Fiction, Historical Fiction, LGBT, Contemporary, Audiobook, Queer, Historical",,389,Hardcover
+147,198,The Good Earth,Pearl S. Buck,4.01,255541,9781416500186,1416500189,"Fiction, Historical Fiction, China, Classics, Literature, Historical, Asia","House of Earth, #1",418,Mass Market Paperback
+148,199,Alice in Wonderland,Jane Carruth,4.03,394489,9780517223628,0517223627,"Classics, Fantasy, Fiction, Childrens, Young Adult, Adventure, Literature",,96,Hardcover
+149,201,The Phantom Tollbooth,Norton Juster,4.2,297926,9780394820378,0394820371,"Fantasy, Fiction, Classics, Childrens, Young Adult, Middle Grade, Adventure",,248,Paperback
+150,202,"Oh, the Places You’ll Go!",Dr. Seuss,4.37,427322,9780679805274,0679805273,"Childrens, Picture Books, Fiction, Classics, Poetry, Fantasy, Young Adult",,44,Hardcover
+151,203,The Neverending Story,Michael Ende,4.18,212318,9780525457589,0525457585,"Fantasy, Fiction, Young Adult, Childrens, Adventure, Classics, German Literature",,396,Hardcover
+152,204,Madame Bovary,Gustave Flaubert,3.71,355150,9780192840394,0192840398,"Fiction, Classics, France, Literature, French Literature, Romance, 19th Century",,329,Paperback
+153,207,Treasure Island,Robert Louis Stevenson,3.85,518596,9780753453803,0753453800,"Fiction, Adventure, Historical Fiction, Young Adult, Childrens, Pirates, Fantasy",,352,Hardcover
+154,208,Jonathan Livingston Seagull,Richard Bach,3.86,263538,9780743278904,0743278909,"Fiction, Classics, Philosophy, Fantasy, Spirituality, Inspirational, Self Help",,112,Paperback
+155,209,A Storm of Swords,George R.R. Martin,4.55,820726,9780553573428,055357342X,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #3",1177,Mass Market Paperback
+156,211,The Boy in the Striped Pajamas,John Boyne,4.16,904071,9780385751070,0385751079,"Historical Fiction, Fiction, Young Adult, Historical, Holocaust, War, World War II",,224,Hardcover
+157,212,Fifty Shades of Grey,E.L. James,3.67,2771866,9781612130293,1612130291,"Fiction, BDSM, Contemporary, Contemporary Romance, Chick Lit, Erotica, Erotic Romance","Fifty Shades, #1",356,Paperback
+158,213,Jurassic Park,Michael Crichton,4.12,1009630,9780307763051,B007UH4D3G,"Science Fiction, Fiction, Thriller, Horror, Fantasy, Adventure, Classics","Jurassic Park, #1",450,Kindle Edition
+159,214,Beloved,Toni Morrison,3.97,465173,9781400033416,1400033411,"Fiction, Classics, Historical Fiction, Magical Realism, Historical, Literature, School","Beloved Trilogy, #1",325,Paperback
+160,216,The Lost Hero,Rick Riordan,4.3,903355,9781423113393,142311339X,"Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #1",576,Hardcover
+161,217,A Farewell to Arms,Ernest Hemingway,3.82,338322,9780099910107,0099910101,"Fiction, Historical Fiction, Classics, War, Literature, Novels, Romance",,293,Paperback
+162,219,The Canterbury Tales,Geoffrey Chaucer,3.52,232505,9780140424386,0140424385,"Fiction, Poetry, Classics, Literature, School, Short Stories, Historical Fiction",,504,Paperback
+163,220,A Little Princess,Frances Hodgson Burnett,4.23,317539,9780142437018,0142437018,"Fiction, Childrens, Classics, Young Adult, Historical Fiction, Middle Grade, Historical",,242,Paperback
+164,221,The World According to Garp,John Irving,4.11,234149,9780345915597,0345915593,"Fiction, Classics, Literature, Contemporary, Novels, Literary Fiction, Humor",,610,Hardcover
+165,222,Thirteen Reasons Why,Jay Asher,3.84,1004672,9781595147882,1595147888,"Young Adult, Fiction, Contemporary, Realistic Fiction, Mystery, Mental Health, Teen",,352,Hardcover
+166,224,His Dark Materials,Philip Pullman,4.29,165493,9780440238607,0440238609,"Fantasy, Fiction, Young Adult, Childrens, Science Fiction Fantasy, Science Fiction, Classics",His Dark Materials #1-3,1088,Mass Market Paperback
+167,225,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,3.52,653212,9780060987107,B007CGOP4C,"Fantasy, Fiction, Retellings, Audiobook, Witches, Classics, Magic","The Wicked Years, #1",406,Paperback
+168,226,Clockwork Prince,Cassandra Clare,4.42,571963,9781416975885,1416975888,"Fantasy, Young Adult, Romance, Paranormal, Steampunk, Historical Fiction, Urban Fantasy","The Infernal Devices, #2",498,Hardcover
+169,227,Shōgun,James Clavell,4.41,200652,9781982603847,1982603844,"Historical Fiction, Fiction, Japan, Historical, Adventure, Audiobook, Literature","Asian Saga, #1",1152,Paperback
+170,228,Schindler’s List,Thomas Keneally,4.34,163219,9780340606513,0340606517,"History, Nonfiction, Holocaust, War, Historical, World War II, Biography",,429,Mass Market Paperback
+171,229,The Velveteen Rabbit,Margery Williams Bianco,4.31,266391,9780380002559,0380002558,"Classics, Childrens, Fiction, Picture Books, Fantasy, Animals, Young Adult",,40,Paperback
+172,230,The Iliad / The Odyssey,Homer,4.07,80831,9780147712554,0147712556,"Fiction, Poetry, Mythology, Classics, Fantasy, Literature, Historical Fiction",,1556,Paperback
+173,231,The Silmarillion,J.R.R. Tolkien,4.02,317688,9780618391110,0618391118,"Fantasy, Fiction, High Fantasy, Science Fiction Fantasy, Epic Fantasy, Classics, Mythology",,386,Hardcover
+174,233,Howl’s Moving Castle,Diana Wynne Jones,4.29,410460,9780064410342,006441034X,"Fantasy, Young Adult, Fiction, Middle Grade, Magic, Classics, Audiobook","Howl’s Moving Castle, #1",329,Mass Market Paperback
+175,234,Extremely Loud & Incredibly Close,Jonathan Safran Foer,3.97,429107,9780618711659,0618711651,"Fiction, Historical Fiction, Contemporary, Novels, Literary Fiction, Adult Fiction, Literature",,326,Paperback
+176,237,Man’s Search for Meaning,Viktor E. Frankl,4.38,802171,9780807014295,080701429X,"Nonfiction, Psychology, Philosophy, Self Help, Memoir, Biography, Audiobook",,165,Paperback
+177,238,Fallen,Lauren Kate,3.72,605542,9780385738934,0385738935,"Fantasy, Young Adult, Romance, Paranormal, Angels, Paranormal Romance, Fiction","Fallen, #1",464,Hardcover
+178,240,Last Sacrifice,Richelle Mead,4.37,295187,9781595143068,1595143068,"Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #6",594,Hardcover
+179,241,Mockingjay,Suzanne Collins,4.1,3460472,9780439023511,0439023513,"Young Adult, Dystopia, Fiction, Fantasy, Science Fiction, Romance, Adventure","The Hunger Games, #3",390,Hardcover
+180,242,A Confederacy of Dunces,John Kennedy Toole,3.89,287622,9780802130204,0802130208,"Fiction, Humor, Literature, Comedy, Novels, Classics, American",,394,Paperback
+181,243,The Green Mile,Stephen King,4.48,343180,9780451933027,0451933028,"Horror, Fiction, Fantasy, Thriller, Mystery, Classics, Crime",,592,Paperback
+182,244,The Secret Magdalene,Ki Longfellow,4.15,4684,9780307346667,0307346668,"Historical Fiction, Fiction, Religion, Historical, Spirituality, Literature, Novels",,448,Hardcover
+183,245,The Crucible,Arthur Miller,3.61,443066,9780142437339,0142437336,"Classics, Plays, Fiction, Historical Fiction, School, Read For School, Historical",,143,Paperback
+184,248,The Girl on the Train,Paula Hawkins,3.96,3143307,9781594633669,1594633665,"Fiction, Mystery, Thriller, Mystery Thriller, Crime, Suspense, Audiobook",,336,Hardcover
+185,249,The Wind in the Willows,Kenneth Grahame,4.02,231171,9780143039099,0143039091,"Fiction, Childrens, Fantasy, Classics, Animals, Young Adult, Middle Grade",,197,Paperback
+186,250,A Light in the Attic,Shel Silverstein,4.36,465661,9780060513061,0060513063,"Poetry, Childrens, Classics, Fiction, Humor, Young Adult, Picture Books",,176,Hardcover
+187,251,Spirit Bound,Richelle Mead,4.32,302768,9781595142504,1595142509,"Young Adult, Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Paranormal Romance","Vampire Academy, #5",489,Hardcover
+188,252,Misery,Stephen King,4.23,796049,9780450417399,0450417395,"Horror, Fiction, Thriller, Mystery, Suspense, Mystery Thriller, Audiobook",,370,Paperback
+189,253,The Lord of the Rings,J.R.R. Tolkien,4.54,706363,9780618640157,0618640150,"Fantasy, Classics, Fiction, Adventure, Science Fiction Fantasy, High Fantasy, Epic Fantasy",,1216,Paperback
+190,254,City of Fallen Angels,Cassandra Clare,4.07,624710,9781442403543,1442403543,"Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #4",425,Hardcover
+191,255,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.47,342460,9780553256697,0553256696,"Nonfiction, Biography, History, Christian, Memoir, Classics, Holocaust",,242,Mass Market Paperback
+192,258,The God of Small Things,Arundhati Roy,3.96,312357,9780679457312,B006E58GFG,"Fiction, India, Historical Fiction, Classics, Literary Fiction, Contemporary, Indian Literature",,321,Paperback
+193,259,The Phantom of the Opera,Gaston Leroux,3.96,262450,9780060809249,0060809248,"Fiction, Horror, Romance, Gothic, Classics, Mystery, Historical Fiction",,360,Mass Market Paperback
+194,260,A Clash of Kings,George R.R. Martin,4.42,985378,9780553381696,0553381695,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #2",1009,Paperback
+195,262,Ella Enchanted,Gail Carson Levine,4.01,419217,9780590920681,0590920685,"Fantasy, Young Adult, Fiction, Middle Grade, Romance, Childrens, Fairy Tales","Ella Enchanted, #1",240,Paperback
+196,263,Girl with a Pearl Earring,Tracy Chevalier,3.93,759723,9780452287020,0452287022,"Historical Fiction, Fiction, Classics, Historical, Art, Romance, Adult Fiction",,233,Paperback
+197,264,The Fellowship of the Ring,J.R.R. Tolkien,4.4,2982506,9780618346257,0618346252,"Fantasy, Classics, Fiction, Adventure, Audiobook, High Fantasy, Science Fiction Fantasy","The Lord of the Rings, #1",398,Paperback
+198,265,The House of the Spirits,Isabel Allende,4.29,294377,9780553383805,0553383809,"Fiction, Magical Realism, Historical Fiction, Fantasy, Spanish Literature, Historical, Novels",,448,Paperback
+199,266,Dark Places,Gillian Flynn,3.95,799498,9780307341563,0307341569,"Mystery, Fiction, Thriller, Mystery Thriller, Crime, Suspense, Audiobook",,424,Hardcover
+200,267,Uglies,Scott Westerfeld,3.85,694875,9780689865381,0689865384,"Young Adult, Dystopia, Science Fiction, Fiction, Fantasy, Romance, Teen","Uglies, #1",425,Paperback
+201,268,The Wind-Up Bird Chronicle,Haruki Murakami,4.14,300958,9780965341981,0965341984,"Fiction, Magical Realism, Fantasy, Japanese Literature, Novels, Literature, Literary Fiction",,607,Paperback
+202,269,Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,474310,9780739461198,B0058M5XF2,"Nonfiction, Animals, Memoir, Biography, Dogs, Humor, Biography Memoir",,291,Hardcover
+203,270,The Way of Kings,Brandon Sanderson,4.67,592324,9780765326355,0765326353,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Magic","The Stormlight Archive, #1",1007,Hardcover
+204,271,Mystic River,Dennis Lehane,4.17,153601,9780060584757,0060584750,"Mystery, Fiction, Thriller, Crime, Mystery Thriller, Suspense, Drama",,416,Paperback
+205,272,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,783919,9781984801814,1984801813,"Historical Fiction, Fiction, Romance, Historical, World War II, Audiobook, Book Club",,291,Paperback
+206,273,Norwegian Wood,Haruki Murakami,,673134,9780375704024,0375704027,"Fiction, Romance, Japan, Japanese Literature, Classics, Novels, Literary Fiction",,296,Paperback
+207,275,She’s Come Undone,Wally Lamb,3.91,354120,9780671021009,B000MZ077O,"Fiction, Contemporary, Chick Lit, Coming Of Age, Adult Fiction, Novels, Literary Fiction",,465,Mass Market Paperback
+208,276,Paper Towns,John Green,3.7,1444674,9780142414934,B003F76HBG,"Young Adult, Fiction, Contemporary, Romance, Mystery, Realistic Fiction, Coming Of Age",,305,Paperback
+209,277,Shutter Island,Dennis Lehane,4.13,208775,9780380731862,038073186X,"Mystery, Fiction, Thriller, Horror, Mystery Thriller, Crime, Suspense",,369,Mass Market Paperback
+210,278,Shiver,Maggie Stiefvater,3.76,490693,9780545123266,0545123267,"Young Adult, Fantasy, Romance, Paranormal, Werewolves, Fiction, Paranormal Romance","The Wolves of Mercy Falls, #1",392,Hardcover
+211,279,Speak,Laurie Halse Anderson,4.05,615607,9780374311254,0374311250,"Young Adult, Fiction, Contemporary, Realistic Fiction, Mental Health, Coming Of Age, Teen",,224,Hardcover
+212,280,Marked,P.C. Cast,3.82,513354,9780312360269,0312360266,"Young Adult, Fantasy, Vampires, Paranormal, Romance, Fiction, Supernatural","House of Night, #1",306,Paperback
+213,281,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,4.07,364904,9780679785897,B01BITNA5S,"Fiction, Classics, Humor, Journalism, Novels, Literature, American",,204,Paperback
+214,284,1984,George Orwell,4.2,5063858,9780452284234,B00A2MTYAI,"Classics, Fiction, Science Fiction, Dystopia, Literature, Politics, Novels",,368,Paperback
+215,285,The Complete Calvin and Hobbes,Bill Watterson,4.81,41387,9780740748479,0740748475,"Humor, Graphic Novels, Fiction, Comics, Classics, Comedy, Graphic Novels Comics",,1456,Hardcover
+216,287,Kafka on the Shore,Haruki Murakami,4.12,513540,9781400079278,1400079276,"Fiction, Magical Realism, Fantasy, Japanese Literature, Novels, Literature, Classics",,467,Paperback
+217,288,Before I Go to Sleep,S.J. Watson,3.9,353063,9780062060556,0062060554,"Thriller, Fiction, Mystery, Mystery Thriller, Suspense, Crime, Contemporary",,359,Hardcover
+218,290,Island of the Blue Dolphins,Scott O'Dell,3.87,342454,9780547488899,B0038AUY8M,"Fiction, Young Adult, Historical Fiction, Childrens, Middle Grade, Adventure, School",,194,Kindle Edition
+219,291,The Idiot,Fyodor Dostoevsky,4.21,201179,9780679642428,0679642420,"Fiction, Russia, Russian Literature, Classics, Literature, Philosophy, Novels",,667,Paperback
+220,293,Roots: The Saga of an American Family,Alex Haley,4.44,162157,9780440174646,0440174643,"Historical Fiction, Fiction, Classics, Historical, African American, Africa, Race",,729,Mass Market Paperback
+221,294,Big Little Lies,Liane Moriarty,4.31,1067780,9780399587191,0399587195,"Fiction, Mystery, Contemporary, Thriller, Chick Lit, Audiobook, Mystery Thriller",,460,Paperback
+222,297,Into the Wild,Jon Krakauer,4.02,1147094,9780385486804,0385486804,"Nonfiction, Biography, Adventure, Classics, Memoir, Nature, School",,207,Paperback
+223,300,None of This Is True,Lisa Jewell,4.1,855546,9781982179007,1982179007,"Thriller, Mystery, Audiobook, Fiction, Mystery Thriller, Suspense, Crime",,390,Hardcover
+224,301,Neverwhere,Neil Gaiman,4.17,550478,9780060557812,0060557818,"Fantasy, Fiction, Urban Fantasy, Audiobook, Science Fiction Fantasy, Horror, Science Fiction","London Below, #1",370,Paperback
+225,302,Shatter Me,Tahereh Mafi,3.84,1081735,9780062085481,0062085484,"Dystopia, Young Adult, Fiction, Science Fiction, Paranormal, Enemies To Lovers, Audiobook","Shatter Me, #1",338,Hardcover
+226,303,The Girl Who Kicked the Hornet’s Nest,Stieg Larsson,4.24,758259,9780307269997,B007NB94GA,"Fiction, Mystery, Thriller, Crime, Mystery Thriller, Suspense, Audiobook","Millennium, #3",566,Hardcover
+227,304,The Vampire Lestat,Anne Rice,4.1,210002,9780345476883,0345476883,"Horror, Fantasy, Vampires, Fiction, Paranormal, Supernatural, Gothic","The Vampire Chronicles, #2",481,Mass Market Paperback
+228,305,The Things They Carried,Tim O'Brien,4.14,331377,9780767902892,0767902890,"Fiction, Historical Fiction, Classics, War, Short Stories, School, Historical",,246,Paperback
+229,306,Wonder,R.J. Palacio,4.36,1150542,9780375869020,0375869026,"Fiction, Young Adult, Middle Grade, Contemporary, Realistic Fiction, Childrens, School","Wonder, #1",315,Hardcover
+230,308,The Paris Apartment,Lucy Foley,3.65,640192,9780063003057,0063003058,"Mystery, Thriller, Fiction, Mystery Thriller, Audiobook, Suspense, Crime",,360,Hardcover
+231,309,Never Let Me Go,Kazuo Ishiguro,3.85,780332,9781400078776,1400078776,"Fiction, Science Fiction, Dystopia, Contemporary, Literary Fiction, Romance, Classics",,288,Paperback
+232,310,Delirium,Lauren Oliver,3.95,474362,9780061726835,0061726834,"Young Adult, Dystopia, Romance, Fantasy, Science Fiction, Fiction, Teen","Delirium, #1",441,Paperback
+233,311,White Oleander,Janet Fitch,,360837,9780316182546,0316182540,"Fiction, Coming Of Age, Contemporary, Literary Fiction, Drama, Adult Fiction, Chick Lit",,446,Mass Market Paperback
+234,313,The Cruel Prince,Holly Black,4.02,1531422,9780316310277,0316310271,"Fantasy, Young Adult, Romance, Enemies To Lovers, Fae, Fiction, Young Adult Fantasy","The Folk of the Air, #1",370,Hardcover
+235,314,Foundation,Isaac Asimov,4.17,570846,9780553803716,0553803719,"Science Fiction, Fiction, Science Fiction Fantasy, Fantasy, Classics, Audiobook, Space Opera","Foundation, #1",244,Hardcover
+236,315,Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,3.98,11739,9780099494287,0099494280,"Travel, Nonfiction, Africa, History, Adventure, Memoir, Biography",,363,Paperback
+237,316,Ready Player One,Ernest Cline,4.23,1243586,9780307887436,030788743X,"Science Fiction, Fiction, Young Adult, Fantasy, Dystopia, Audiobook, Adventure","Ready Player One, #1",480,Hardcover
+238,318,Lock Every Door,Riley Sager,3.89,259577,9781524745158,1524745154,"Thriller, Mystery, Mystery Thriller, Fiction, Horror, Audiobook, Suspense",,381,ebook
+239,319,The Family Upstairs,Lisa Jewell,3.96,501774,9781501190100,1501190105,"Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Suspense, Crime","The Family Upstairs, #1",340,Hardcover
+240,320,You,Caroline Kepnes,3.96,269822,9781501195433,1501195433,"Thriller, Fiction, Mystery, Mystery Thriller, Contemporary, Audiobook, Horror","You, #1",464,Paperback
+241,321,Mistborn: The Final Empire,Brandon Sanderson,4.49,840627,9780765311788,076531178X,"Fantasy, Fiction, High Fantasy, Audiobook, Epic Fantasy, Magic, Science Fiction Fantasy","Mistborn, #1",541,Hardcover
+242,323,East of Eden,John Steinbeck,4.42,582278,9780142000656,0142000655,"Fiction, Classics, Historical Fiction, Literature, Novels, Literary Fiction, American",,601,Paperback
+243,324,The Mark of Athena,Rick Riordan,4.47,645818,9781423140603,1423140605,"Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #3",586,Hardcover
+244,325,The Bone Collector,Jeffery Deaver,4.2,186222,9780451188458,0451188454,"Mystery, Thriller, Fiction, Crime, Mystery Thriller, Suspense, Detective","Lincoln Rhyme, #1",528,Mass Market Paperback
+245,326,The Once and Future King,T.H. White,4.07,115373,9780441627400,0441627404,"Fantasy, Classics, Fiction, Historical Fiction, Arthurian, Mythology, Young Adult",,639,Mass Market Paperback
+246,327,The Son of Neptune,Rick Riordan,4.41,637693,9781423140597,1423140591,"Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #2",521,Hardcover
+247,328,Pretty Girls,Karin Slaughter,4.02,570304,9780062430878,0062430874,"Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Crime, Suspense",,432,Paperback
+248,329,I Know This Much Is True,Wally Lamb,4.21,318361,9780060987565,0060987561,"Fiction, Contemporary, Literary Fiction, Novels, Mental Health, Adult Fiction, Psychology",,897,Paperback
+249,330,James and the Giant Peach,Roald Dahl,4.03,497805,9780375814242,0375814248,"Childrens, Fantasy, Fiction, Classics, Young Adult, Middle Grade, Adventure",,176,Hardcover
+250,331,The Housemaid's Secret,Freida McFadden,4.21,1126096,9781837901319,B0BGXYL3BZ,"Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Psychological Thriller","The Housemaid, #2",318,Kindle Edition
+251,332,A Court of Thorns and Roses,Sarah J. Maas,4.17,3604955,9781619634442,1619634449,"Fantasy, Young Adult, Fiction, Romantasy, Audiobook, New Adult, Fae","A Court of Thorns and Roses, #1",419,Hardcover
+252,333,Candide,Voltaire,3.76,289578,9780486266893,0486266893,"Fiction, Philosophy, France, Classics, Literature, French Literature, Humor",,129,Paperback
+253,334,The Complete Works,William Shakespeare,4.48,57371,9780517053614,0517053616,"Classics, Poetry, Fiction, Plays, Literature, Drama, Classic Literature",,1229,Leather Bound
+254,335,All Creatures Great and Small,James Herriot,4.35,152888,9780312965785,0312965788,"Nonfiction, Memoir, Animals, Classics, Biography, Audiobook, Biography Memoir","All Creatures Great and Small, #1-2",437,Mass Market Paperback
+255,336,Flow Down Like Silver,Ki Longfellow,4.01,4516,9780975925591,0975925598,"Historical Fiction, Fiction, Egypt, Historical, Philosophy, Literature, Africa",,301,Paperback
+256,337,Paradise Lost,John Milton,3.85,174656,9780140424393,0140424393,"Poetry, Fiction, Classics, Literature, Religion, Fantasy, Philosophy",,453,Paperback
+257,341,Behind Closed Doors,B.A. Paris,3.97,691259,9781250121004,1250121000,"Thriller, Fiction, Mystery, Mystery Thriller, Suspense, Audiobook, Psychological Thriller",,293,Hardcover
+258,342,No Exit,Taylor Adams,3.99,192141,9781912106769,B073BVCHKG,"Thriller, Mystery Thriller, Mystery, Fiction, Horror, Suspense, Crime",,287,Kindle Edition
+259,343,The Woman in Cabin 10,Ruth Ware,3.73,686207,9781501132933,1501132938,"Mystery, Thriller, Fiction, Mystery Thriller, Suspense, Audiobook, Crime","Lo Blacklock, #1",341,Hardcover
+260,344,Heidi,Johanna Spyri,4.04,206411,9780753454947,0753454947,"Classics, Fiction, Childrens, Historical Fiction, Young Adult, Middle Grade, Historical","Heidi, #1-2",352,Paperback
+261,345,The Thirteenth Tale,Diane Setterfield,3.98,320803,9780743298025,0743298020,"Fiction, Mystery, Historical Fiction, Gothic, Books About Books, Fantasy, Audiobook",,406,Hardcover
+262,346,"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,4.23,178067,9780380813810,0380813815,"Fiction, Humor, Historical Fiction, Fantasy, Religion, Comedy, Audiobook",,444,Paperback
+263,347,The Wise Man's Fear,Patrick Rothfuss,4.55,592944,9780756404734,0756404738,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Magic, Science Fiction Fantasy","The Kingkiller Chronicle, #2",994,Hardcover
+264,348,Me Before You,Jojo Moyes,4.26,1735810,9780670026609,0670026603,"Fiction, Contemporary, Chick Lit, Audiobook, Adult Fiction, Contemporary Romance, Drama","Me Before You, #1",369,Hardcover
+265,349,The Martian,Andy Weir,4.42,1206926,9780804139021,0804139024,"Science Fiction, Fiction, Audiobook, Adventure, Space, Thriller, Science Fiction Fantasy",,384,Hardcover
+266,350,The Couple Next Door,Shari Lapena,3.8,660799,9780735221086,0735221081,"Thriller, Mystery, Fiction, Mystery Thriller, Suspense, Audiobook, Crime",,308,Hardcover
+267,351,City of Lost Souls,Cassandra Clare,4.21,552842,9781442416864,1442416866,"Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #5",535,Hardcover
+268,352,All the Light We Cannot See,Anthony Doerr,4.31,1851322,9781476746586,1476746583,"Historical Fiction, Fiction, Historical, War, World War II, Audiobook, France",,544,Hardcover
+269,353,Graceling,Kristin Cashore,4.07,473305,9780152063962,015206396X,"Fantasy, Young Adult, Romance, Fiction, Young Adult Fantasy, Adventure, Magic","Graceling Realm, #1",471,Hardcover
+270,354,A Flicker in the Dark,Stacy Willingham,3.99,517586,9781250803825,1250803829,"Thriller, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense, Crime",,357,Hardcover
+271,356,Home Before Dark,Riley Sager,4.06,256591,9781524745172,1524745170,"Horror, Thriller, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense",,389,Hardcover
+272,357,Different Seasons,Stephen King,4.36,214108,9780751514629,0751514624,"Horror, Fiction, Short Stories, Thriller, Mystery, Fantasy, Drama",,560,Mass Market Paperback
+273,358,"Are You There God? It’s Me, Margaret",Judy Blume,3.94,249096,9780689841583,0689841582,"Young Adult, Fiction, Childrens, Classics, Middle Grade, Coming Of Age, Realistic Fiction",,149,Hardcover
+274,359,Then She Was Gone,Lisa Jewell,4.05,857097,9781501154645,1501154648,"Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Suspense, Crime",,359,Paperback
+275,360,Final Girls,Riley Sager,3.82,228707,9781101985366,1101985364,"Thriller, Horror, Mystery, Mystery Thriller, Fiction, Audiobook, Suspense",,352,Hardcover
+276,361,The Cider House Rules,John Irving,4.17,190753,9780786226740,0786226749,"Fiction, Classics, Historical Fiction, Literature, Literary Fiction, Contemporary, Novels",,1064,Hardcover
+277,362,The Last Thing He Told Me,Laura Dave,3.83,1066158,9781501171345,1501171348,"Mystery, Fiction, Thriller, Audiobook, Mystery Thriller, Suspense, Contemporary",,307,Hardcover
+278,363,Hamlet,William Shakespeare,4.02,1004103,9780521618748,0521618746,"Plays, Fiction, School, Literature, Read For School, Poetry, High School",,289,Paperback
+279,365,The Complete Maus,Art Spiegelman,4.58,239087,9780141014081,0141014083,"Graphic Novels, Comics, Nonfiction, History, Biography, Memoir, Historical",,296,Paperback
+280,366,The Only One Left,Riley Sager,4.14,449950,9780593183229,0593183223,"Thriller, Mystery, Mystery Thriller, Fiction, Horror, Audiobook, Suspense",,383,Hardcover
+281,368,Mrs. Dalloway,Virginia Woolf,3.79,329731,9780151009985,0151009988,"Fiction, Classics, Literature, Novels, Feminism, Literary Fiction, British Literature",,194,Hardcover
+282,370,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,317386,9780375508417,0375508414,"Fiction, Historical Fiction, Classics, LGBT, Queer, Historical, Chick Lit",,416,Hardcover
+283,371,A Good Girl's Guide to Murder,Holly Jackson,4.3,1516075,9781405293181,1405293187,"Young Adult, Thriller, Mystery Thriller, Fiction, Crime, Audiobook, Contemporary","A Good Girl's Guide to Murder, #1",433,Paperback
+284,372,Sophie’s World,Jostein Gaarder,3.97,271560,9781857993288,1857993284,"Fiction, Classics, Young Adult, Novels, Fantasy, Literature, Contemporary",,403,Paperback
+285,373,The Awakening,Kate Chopin,3.68,218930,9780543898081,0543898083,"Classics, Fiction, Feminism, School, Literature, Historical Fiction, Read For School",,195,Paperback
+286,375,The Graveyard Book,Neil Gaiman,4.16,556936,9780060530921,0060530928,"Fantasy, Young Adult, Fiction, Horror, Middle Grade, Paranormal, Audiobook",,312,Hardcover
+287,377,Middlemarch,George Eliot,4.03,171784,9780451529176,0451529170,"Classics, Fiction, Historical Fiction, Literature, 19th Century, Victorian, Novels",,912,Mass Market Paperback
+288,378,The Monster at the End of this Book,Jon Stone,4.46,126099,9780375829130,037582913X,"Picture Books, Childrens, Fiction, Humor, Classics, Monsters, Storytime",,32,Hardcover
+289,379,Stardust,Neil Gaiman,4.1,472288,9780061142024,0061142026,"Fantasy, Fiction, Young Adult, Adventure, Audiobook, Magic, Science Fiction Fantasy",,248,Paperback
+290,380,Fifty Shades Darker,E.L. James,3.83,951056,9781612130583,1612130585,"Romance, Fiction, Erotica, BDSM, Contemporary, Contemporary Romance, Chick Lit","Fifty Shades, #2",532,Paperback
+291,381,Sophie’s Choice,William Styron,4.17,92936,9780679736370,0679736379,"Fiction, Historical Fiction, Holocaust, War, Classics, Historical, World War II",,562,Paperback
+292,382,Black Beauty,Anna Sewell,,290232,9780439228909,0439228905,"Classics, Fiction, Childrens, Animals, Young Adult, Horses, Historical Fiction",,245,Mass Market Paperback
+293,383,The Prince of Tides,Pat Conroy,4.26,212556,9780553381542,0553381547,"Fiction, Classics, Romance, Southern, Contemporary, Literary Fiction, Literature",,679,Paperback
+294,384,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,4.3,650175,9781442408920,1442408928,"Young Adult, LGBT, Contemporary, Fiction, Queer, Audiobook, Coming Of Age","Aristotle and Dante, #1",390,Hardcover
+295,386,Dead Until Dark,Charlaine Harris,3.97,552584,9780441008537,0441008534,"Fantasy, Vampires, Paranormal, Romance, Urban Fantasy, Fiction, Mystery","Sookie Stackhouse, #1",292,Mass Market Paperback
+296,388,Number the Stars,Lois Lowry,4.19,598509,9780440227533,0440227534,"Historical Fiction, Young Adult, Fiction, Classics, Middle Grade, Historical, Childrens",,137,Mass Market Paperback
+297,389,Bridget Jones’s Diary,Helen Fielding,3.81,1005492,9780140280098,014028009X,"Fiction, Chick Lit, Romance, Contemporary, Humor, Comedy, Adult Fiction","Bridget Jones, #1",288,Hardcover
+298,390,Ignite Me,Tahereh Mafi,4.45,591183,9780062085597,B07H56SK9J,"Fantasy, Dystopia, Romance, Young Adult, Enemies To Lovers, Science Fiction, Fiction","Shatter Me, #3",408,Kindle Edition
+299,391,The Magician’s Nephew,C.S. Lewis,4.05,576678,9780060764906,0060764902,"Fantasy, Fiction, Young Adult, Childrens, Middle Grade, Christian, Adventure","Chronicles of Narnia, #6",221,Mass Market Paperback
+300,392,The Art of Racing in the Rain,Garth Stein,4.23,539090,9781554681723,1554681723,"Fiction, Animals, Dogs, Audiobook, Adult Fiction, Book Club, Contemporary",,336,Hardcover
+301,393,V for Vendetta,Alan Moore,4.26,317098,9781401207922,1401207928,"Graphic Novels, Comics, Fiction, Dystopia, Science Fiction, Graphic Novels Comics, Classics",,296,Hardcover
+302,394,Eleanor & Park,Rainbow Rowell,3.93,1224357,9781250012579,1250012570,"Young Adult, Romance, Fiction, Contemporary, Realistic Fiction, Audiobook, Coming Of Age",,328,Hardcover
+303,395,American Psycho,Bret Easton Ellis,3.81,340536,9780679735779,0679735771,"Fiction, Horror, Classics, Thriller, Crime, Contemporary, Novels",,399,Paperback
+304,396,War and Peace,Leo Tolstoy,4.16,350300,9780192833983,0192833987,"Classics, Fiction, Historical Fiction, Russia, Russian Literature, Literature, War",,1392,Paperback
+305,397,Franny and Zooey,J.D. Salinger,3.96,231732,9780316769020,0316769029,"Fiction, Short Stories, Literature, Classics, American, Novels, Literary Fiction",,201,Paperback
+306,398,Beowulf,Unknown,3.49,332790,9780393320978,0393320979,"Poetry, Fiction, Fantasy, Classics, Mythology, School, Literature",,259,Paperback
+307,400,Love You Forever,Robert Munsch,4.38,243360,9780920668375,0920668372,"Picture Books, Childrens, Fiction, Classics, Family, Love, Kids",,32,Paperback
+308,401,The Witches,Roald Dahl,4.18,414489,9780590032490,0590032496,"Fantasy, Childrens, Fiction, Classics, Middle Grade, Young Adult, Witches",,208,Paperback
+309,402,A Little Life,Hanya Yanagihara,4.3,805878,9780385539258,0385539258,"Fiction, Contemporary, Literary Fiction, LGBT, Queer, Mental Health, Novels",,720,Hardcover
+310,403,Allegiant,Veronica Roth,3.6,1105978,9780007524273,0007524277,"Young Adult, Dystopia, Fiction, Fantasy, Science Fiction, Romance, Adventure","Divergent, #3",531,Hardcover
+311,404,A Short History of Nearly Everything,Bill Bryson,4.22,406241,9780767908184,076790818X,"Nonfiction, Science, History, Audiobook, Humor, Physics, Popular Science",,544,Paperback
+312,405,Harry Potter Series Box Set,J.K. Rowling,4.73,297101,9780545044257,0545044251,"Fantasy, Young Adult, Fiction, Magic, Childrens, Adventure, Classics","Harry Potter, #1-7",4100,Hardcover
+313,406,The Gunslinger,Stephen King,3.92,640743,9781501143519,1501143514,"Fantasy, Fiction, Horror, Science Fiction, Audiobook, Adventure, Science Fiction Fantasy","The Dark Tower, #1",231,Paperback
+314,407,If I Stay,Gayle Forman,3.91,946043,9780525421030,0525421033,"Young Adult, Romance, Contemporary, Fiction, Realistic Fiction, Teen, Music","If I Stay, #1",208,Hardcover
+315,408,The Power of One,Bryce Courtenay,4.35,91852,9780345410054,034541005X,"Fiction, Historical Fiction, Africa, Classics, South Africa, Coming Of Age, Historical","The Power of One, #1",544,Paperback
+316,409,The Complete Novels,Jane Austen,4.57,33701,9780140259445,0140259449,"Classics, Fiction, Romance, Historical Fiction, Literature, Historical, Classic Literature",,1344,Paperback
+317,410,Gulliver’s Travels,Jonathan Swift,3.59,289443,9780141439495,B06XVF5QFY,"Classics, Fiction, Fantasy, Adventure, Literature, Novels, 18th Century",,306,Paperback
+318,411,The Eye of the World,Robert Jordan,4.19,561639,9780812511819,0812511816,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Audiobook, Science Fiction Fantasy, Adventure","The Wheel of Time, #1",800,Mass Market Paperback
+319,412,The House of Hades,Rick Riordan,4.57,456454,9781423146728,1423146727,"Fantasy, Mythology, Young Adult, Fiction, Middle Grade, Adventure, Greek Mythology","The Heroes of Olympus, #4",597,Hardcover
+320,413,Tuck Everlasting,Natalie Babbitt,3.9,285711,9780374480097,0374480095,"Fantasy, Classics, Young Adult, Fiction, Childrens, Middle Grade, School",,148,Paperback
+321,414,It Ends with Us,Colleen Hoover,4.12,4233241,9781668021040,1668021048,"Fiction, Contemporary, Audiobook, New Adult, Contemporary Romance, Abuse, Chick Lit","It Ends with Us, #1",386,Kindle Edition
+322,415,Fifty Shades Freed,E.L. James,3.83,892739,9780345803504,B00DNW19FC,"Romance, Erotica, Fiction, BDSM, Contemporary, Contemporary Romance, Chick Lit","Fifty Shades, #3",579,Paperback
+323,417,’Salem’s Lot,Stephen King,4.1,623014,9780450031069,0450031063,"Horror, Fiction, Vampires, Fantasy, Thriller, Paranormal, Audiobook",,483,Paperback
+324,418,A Portrait of the Artist as a Young Man,James Joyce,3.64,158707,9780142437346,0142437344,"Classics, Fiction, Literature, Irish Literature, Ireland, Novels, 20th Century",,329,Paperback
+325,420,11/22/63,Stephen King,4.34,593292,9781451627282,1451627289,"Fiction, Historical Fiction, Science Fiction, Time Travel, Horror, Fantasy, Thriller",,849,Hardcover
+326,421,The Grapes of Wrath,John Steinbeck,4.02,954793,9780670016907,067001690X,"Classics, Fiction, Historical Fiction, Literature, Novels, School, American",,496,Hardcover
+327,422,Heir of Fire,Sarah J. Maas,4.46,1277428,9781619630659,1619630656,"Young Adult, Romance, Fantasy, Fiction, Magic, Fae, Romantasy","Throne of Glass, #3",565,Hardcover
+328,423,Inferno,Dante Alighieri,4.03,195592,9780812970067,B0BQJ59T18,"Classics, Poetry, Fiction, Literature, Religion, Fantasy, School",,490,Kindle Edition
+329,425,Fourth Wing,Rebecca Yarros,4.58,2778289,9781649374042,1649374046,"Romantasy, Dragons, Fiction, Audiobook, Enemies To Lovers, Fantasy Romance, Magic","The Empyrean, #1",498,Hardcover
+330,426,Tao Te Ching,Lao Tzu,4.29,172111,9780679724346,0679724346,"Philosophy, Nonfiction, Classics, Spirituality, Poetry, China, Self Help",,107,Paperback
+331,427,Cold Mountain,Charles Frazier,3.89,246749,9780802142849,0802142842,"Historical Fiction, Fiction, Historical, Romance, Civil War, War, Classics",,449,Paperback
+332,428,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,242797,9780553212280,0553212281,"Classics, Horror, Fiction, Short Stories, Poetry, Gothic, Mystery",,448,Mass Market Paperback
+333,430,Cloud Atlas,David Mitchell,4.01,258864,9780375507250,B00A2M3QD4,"Fiction, Science Fiction, Fantasy, Historical Fiction, Dystopia, Literary Fiction, Contemporary",,509,Paperback
+334,431,Go Ask Alice,Beatrice Sparks,3.74,283714,9781416914631,1416914633,"Young Adult, Fiction, Classics, Contemporary, Mental Health, Banned Books, Realistic Fiction",,213,Paperback
+335,432,The Hunchback of Notre-Dame,Victor Hugo,4.02,210004,9780451527882,0451527887,"Fiction, Classics, Historical Fiction, France, Literature, Gothic, French Literature",,510,Paperback
+336,433,Eldest,Christopher Paolini,4.04,473102,9780375840401,0375840400,"Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy","The Inheritance Cycle, #2",704,Paperback
+337,435,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,628127,9780451528957,0451528956,"Horror, Gothic, Mystery, Science Fiction, Fantasy, Audiobook, Literature",,139,Mass Market Paperback
+338,436,The Martian Chronicles,Ray Bradbury,4.16,275316,9780553278224,B00LNVWRG0,"Science Fiction, Fiction, Classics, Short Stories, Fantasy, Science Fiction Fantasy, Audiobook",,182,Mass Market Paperback
+339,437,Dark Lover,J.R. Ward,4.16,345527,9780451216953,0451216954,"Paranormal, Vampires, Paranormal Romance, Fantasy, Urban Fantasy, Fiction, Supernatural","Black Dagger Brotherhood, #1",393,Mass Market Paperback
+340,438,Brisingr,Christopher Paolini,4.1,398804,9780375826726,0375826726,"Fantasy, Young Adult, Fiction, Dragons, Adventure, Magic, High Fantasy",The Inheritance Cycle #3,748,Hardcover
+341,440,Steppenwolf,Hermann Hesse,4.13,201227,9780140282580,0140282580,"Fiction, Classics, Philosophy, German Literature, Literature, Novels, Germany",,256,Paperback
+342,441,Beautiful Creatures,Kami Garcia,3.77,613053,9780316042673,0316042676,"Fantasy, Young Adult, Romance, Paranormal, Fiction, Magic, Supernatural","Caster Chronicles, #1",563,Hardcover
+343,442,The BFG,Roald Dahl,4.23,507685,9780141311371,0141311371,"Fantasy, Childrens, Fiction, Middle Grade, Young Adult, Humor, Adventure",,199,Paperback
+344,445,Red Queen,Victoria Aveyard,3.99,1105466,9780062310637,0062310631,"Young Adult, Dystopia, Romance, Fiction, Young Adult Fantasy, Audiobook, Magic","Red Queen, #1",388,Hardcover
+345,446,Hidden Pictures,Jason Rekulak,4.16,447917,9781250819345,1250819342,"Horror, Thriller, Mystery, Fiction, Mystery Thriller, Audiobook, Paranormal",,372,Hardcover
+346,447,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,3.92,1320116,9781594744761,1594744769,"Fantasy, Young Adult, Fiction, Paranormal, Mystery, Horror, Historical Fiction","Miss Peregrine's Peculiar Children, #1",352,Hardcover
+347,448,Stargirl,Jerry Spinelli,3.77,332342,9780439488402,0439488400,"Young Adult, Fiction, Contemporary, Romance, Realistic Fiction, Middle Grade, Childrens","Stargirl, #1",186,Paperback
+348,450,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,207938,9780312282998,B007C4D1G2,"Fiction, Historical Fiction, Novels, Literary Fiction, Literature, Historical, Contemporary",,639,Paperback
+349,451,Where the Crawdads Sing,Delia Owens,4.38,3376781,9780735219113,0735219117,"Fiction, Historical Fiction, Mystery, Audiobook, Romance, Contemporary, Historical",,384,ebook
+350,453,The Amber Spyglass,Philip Pullman,4.1,372702,9780440238157,0440238153,"Fantasy, Young Adult, Fiction, Adventure, Audiobook, Science Fiction, Childrens","His Dark Materials, #3",465,Mass Market Paperback
+351,454,City of Heavenly Fire,Cassandra Clare,4.38,403201,9781481426305,1481426303,"Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Vampires, Fiction","The Mortal Instruments, #6",725,Hardcover
+352,455,زندگی مه آلود پریا,سید مرتضی مصطفوی,3.34,1031,9786007072714,6007072711,Fiction,,204,ebook
+353,457,Circe,Madeline Miller,4.23,1217108,9780316556347,0316556343,"Fantasy, Fiction, Mythology, Historical Fiction, Greek Mythology, Audiobook, Retellings",,393,Hardcover
+354,458,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.78,238678,9780060589462,0060589469,"Philosophy, Fiction, Classics, Spirituality, Travel, Psychology, Self Help","Phaedrus, #1",540,Mass Market Paperback
+355,459,The Firm,Robin Waterfield,4.06,633429,9780582418271,0582418275,"Fiction, Thriller, Mystery, Crime, Suspense, Mystery Thriller, Legal Thriller",,76,Paperback
+356,461,Doctor Zhivago,Boris Pasternak,4.01,99986,9780679774389,0679774386,"Fiction, Historical Fiction, Russia, Russian Literature, Classics, Romance, Literature",,592,Paperback
+357,462,Dear John,Nicholas Sparks,4.04,610444,9780446528054,0446528056,"Romance, Fiction, Chick Lit, Contemporary, Contemporary Romance, Young Adult, Adult Fiction",,276,Hardcover
+358,463,Coraline,Neil Gaiman,4.13,746739,9780061139376,0061139378,"Fantasy, Horror, Fiction, Young Adult, Middle Grade, Childrens, Audiobook",,176,Paperback
+359,464,The English Patient,Michael Ondaatje,3.86,136025,9780771068713,0771068719,"Fiction, Historical Fiction, Classics, Romance, War, Historical, Canada",,320,Hardcover
+360,465,Midnight’s Children,Salman Rushdie,3.98,129100,9780099578512,0099578514,"Fiction, Magical Realism, Classics, India, Historical Fiction, Fantasy, Literature",,647,Paperback
+361,466,The Last Song,Nicholas Sparks,4.16,565019,9780446547567,B0046NN9AU,"Romance, Fiction, Young Adult, Contemporary, Chick Lit, Drama, Contemporary Romance",,390,Paperback
+362,467,A Court of Mist and Fury,Sarah J. Maas,4.64,2742893,9781635575583,1635575583,"Fantasy, Romance, Romantasy, Young Adult, Fiction, New Adult, Fae","A Court of Thorns and Roses, #2",626,Paperback
+363,468,All the Bright Places,Jennifer Niven,4.12,604253,9780385755887,0385755880,"Young Adult, Romance, Contemporary, Fiction, Mental Health, Realistic Fiction, Mental Illness",,388,Hardcover
+364,470,Crescendo,Becca Fitzpatrick,3.98,332266,9781416989431,1416989439,"Young Adult, Fantasy, Romance, Angels, Paranormal, Paranormal Romance, Fiction","Hush, Hush, #2",427,Hardcover
+365,472,Crown of Midnight,Sarah J. Maas,4.36,1452603,9781619630628,1619630621,"Young Adult, Romance, Fiction, Magic, Romantasy, Young Adult Fantasy, High Fantasy","Throne of Glass, #2",420,Hardcover
+366,473,Midnight in the Garden of Good and Evil,John Berendt,3.92,284397,9780679751526,0679751521,"Nonfiction, True Crime, Mystery, Crime, History, Classics, Audiobook",,386,Paperback
+367,474,A Streetcar Named Desire,Tennessee Williams,3.98,327489,9780822210894,0822210894,"Plays, Classics, Fiction, Drama, School, Read For School, Literature",,107,Paperback
+368,475,My Ántonia,Willa Cather,3.84,142916,9781583485095,1583485090,"Fiction, Historical Fiction, Classics, Literature, School, American, Historical",,219,Paperback
+369,476,The One,Kiera Cass,4.14,741238,9780062059994,0062059998,"Romance, Young Adult, Dystopia, Fantasy, Fiction, Audiobook, Science Fiction","The Selection, #3",323,Hardcover
+370,477,The Invisible Life of Addie LaRue,Victoria E. Schwab,4.18,1308636,9780765387561,0765387565,"Fantasy, Fiction, Romance, Historical Fiction, Historical, Magical Realism, LGBT",,448,Hardcover
+371,478,Local Woman Missing,Mary Kubica,4.13,629481,9780778311669,077831166X,"Thriller, Mystery, Mystery Thriller, Audiobook, Fiction, Suspense, Crime",,356,Paperback
+372,479,Breakfast of Champions,Kurt Vonnegut Jr.,4.06,271423,9780385334204,0385334206,"Fiction, Classics, Science Fiction, Humor, Literature, Novels, American",,303,Paperback
+373,481,The Prince,Niccolò Machiavelli,3.84,362710,9780937832387,0937832383,"Philosophy, Nonfiction, Politics, History, Political Science, Literature, Italy",,144,Paperback
+374,483,The Virgin Suicides,Jeffrey Eugenides,3.79,381025,9780747560593,0747560595,"Fiction, Young Adult, Literary Fiction, Coming Of Age, Mental Health, Contemporary, Novels",,250,Paperback
+375,485,Daughter of Smoke & Bone,Laini Taylor,3.99,379088,9780316134026,0316134023,"Fantasy, Young Adult, Romance, Paranormal, Urban Fantasy, Angels, Fiction","Daughter of Smoke & Bone, #1",418,Hardcover
+376,486,A Fine Balance,Rohinton Mistry,4.38,154810,9781400030651,140003065X,"Fiction, Historical Fiction, India, Indian Literature, Literary Fiction, Historical, Asia",,603,Paperback
+377,487,Hopeless,Colleen Hoover,4.23,640894,9781301949823,B08GWTKXCP,"Romance, New Adult, Young Adult, Contemporary, Fiction, Contemporary Romance, Abuse","Hopeless, #1",410,Kindle Edition
+378,488,Queen of Shadows,Sarah J. Maas,4.62,1142321,9781619636040,1619636042,"Young Adult, Romance, Fiction, Fae, Magic, Romantasy, Young Adult Fantasy","Throne of Glass, #4",648,Hardcover
+379,489,"Red, White & Royal Blue",Casey McQuiston,4.06,1140209,9781250316776,1250316774,"Romance, LGBT, Contemporary, Fiction, Queer, Young Adult, Enemies To Lovers",,448,Paperback
+380,490,"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,977692,9781400064168,1400064163,"Nonfiction, History, Biography, World War II, War, Historical, Audiobook",,475,Hardcover
+381,492,A Feast for Crows,George R.R. Martin,4.17,766454,9780553582024,B005JV4KFG,"Fantasy, Fiction, Epic Fantasy, High Fantasy, Science Fiction Fantasy, Audiobook, Dragons","A Song of Ice and Fire, #4",1060,Mass Market Paperback
+382,493,Death of a Salesman,Arthur Miller,3.58,248305,9780435233075,0435233076,"Classics, Plays, Fiction, Drama, School, Theatre, Literature",,144,Hardcover
+383,494,Carrie,Stephen King,3.99,793640,9781416524304,1416524304,"Horror, Fiction, Thriller, Classics, Fantasy, Paranormal, Supernatural",,272,Mass Market Paperback
+384,495,Flowers in the Attic,V.C. Andrews,3.85,227705,9780743496315,B000FCSIOS,"Fiction, Horror, Young Adult, Classics, Gothic, Mystery, Thriller","Dollanganger, #1",389,Paperback
+385,496,Pippi Longstocking,Astrid Lindgren,4.15,205101,9780142402498,0142402494,"Classics, Childrens, Fiction, Middle Grade, Fantasy, Young Adult, Humor","Pippi Långstrump, #1",160,Mass Market Paperback
+386,497,The Hate U Give,Angie Thomas,4.46,966573,9780062498533,0062498533,"Young Adult, Fiction, Contemporary, Audiobook, Realistic Fiction, Race, Social Justice","The Hate U Give, #1",454,Hardcover
+387,498,Evermore,Alyson Noel,3.59,295741,9780312532758,031253275X,"Young Adult, Fantasy, Paranormal, Romance, Paranormal Romance, Fiction, Supernatural","The Immortals, #1",301,Paperback
+388,499,We Were Liars,E. Lockhart,3.66,1236013,9780385741279,0385741278,"Young Adult, Mystery, Fiction, Contemporary, Romance, Thriller, Mystery Thriller",,242,Kindle Edition
+389,500,The Scarlet Pimpernel,Emmuska Orczy,4.07,138835,9781576469231,1576469239,"Classics, Historical Fiction, Fiction, Adventure, Historical, Mystery, France",,182,Paperback
+390,501,The Nightingale,Kristin Hannah,4.64,1743746,9780312577223,0312577222,"Historical Fiction, Fiction, Historical, Audiobook, World War II, War, Romance",,564,Hardcover
+391,502,I Know Why the Caged Bird Sings,Maya Angelou,4.3,557511,9780553279375,B00P4JQBIC,"Nonfiction, Classics, Memoir, Biography, Autobiography, Poetry, Feminism","Maya Angelou's Autobiography, #1",289,Paperback
+392,503,The Host,Stephenie Meyer,3.86,1032867,9780316068048,0316068047,"Fantasy, Young Adult, Science Fiction, Romance, Fiction, Dystopia, Paranormal","The Host, #1",619,Hardcover
+393,504,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,,725687,9780609608449,0609608444,"Nonfiction, History, True Crime, Crime, Historical, Mystery, Audiobook",,464,Hardcover
+394,505,Persuasion,Jane Austen,4.15,738884,9780192802637,0192802631,"Fiction, Classics, Historical Fiction, Audiobook, Historical, Literature, 19th Century",,249,Paperback
+395,507,The Raven Boys,Maggie Stiefvater,4.05,388254,9780545424929,0545424925,"Fantasy, Young Adult, Paranormal, Romance, Fiction, Audiobook, Urban Fantasy","The Raven Cycle, #1",409,Hardcover
+396,509,Sharp Objects,Gillian Flynn,4.01,1148397,9780297851530,0297851535,"Mystery, Thriller, Fiction, Mystery Thriller, Crime, Audiobook, Suspense",,254,Paperback
+397,511,Anna and the French Kiss,Stephanie Perkins,3.96,460405,9780525423270,0525423273,"Romance, Young Adult, Contemporary, Fiction, Chick Lit, Realistic Fiction, Contemporary Romance","Anna and the French Kiss, #1",372,Hardcover
+398,512,Northanger Abbey,Jane Austen,3.85,429190,9781593082642,1593082649,"Classics, Fiction, Gothic, Historical Fiction, Literature, Audiobook, Historical",,260,Paperback
 399,,A Game of Thrones,George R. R. Martin,4.5,,,,Fiction,,876,paperback
 400,,The Invisible Man,"Len Jenkin, Herbert George Wells",,,9780871299840,,Drama,,78,paperback
 401,,Cards on the Table,Agatha Christie,,,9780006162810,,Fiction,,228,paperback
