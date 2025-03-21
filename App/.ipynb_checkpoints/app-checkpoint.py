@@ -5,7 +5,7 @@ import random
 # Load pre-clustered book data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../Data/Clean/Book_Recommender_Final.csv")
+    df = pd.read_csv("Book_Recommender_Final.csv")
     return df
 
 df = load_data()
