@@ -39,14 +39,12 @@ if not use_lucky:
         max_selections=5
     )
 
-# --- Recommend Button ---
-if st.button("Get Recommendations"):
+# --- Recommendation Logic in a Function ---
+def generate_recommendations():
     if use_lucky:
-        # Randomly pick a cluster and return 10 high quality books from that cluster
         selected_cluster = random.choice(df['Cluster'].unique())
         recs = df[df['Cluster'] == selected_cluster]
     elif user_books:
-        # Find the most common cluster among selected books
         selected_clusters = df[df['Title'].isin(user_books)]['Cluster']
         if selected_clusters.empty:
             st.warning("We couldn't match any of your books to our database.")
@@ -57,16 +55,27 @@ if st.button("Get Recommendations"):
         st.warning("Please select your favorite books or choose 'I'm feeling lucky'.")
         st.stop()
 
-    # Filter by age group
     age_filtered = recs[recs['Age_Group_Min'] <= age]
     age_filtered = age_filtered.sort_values(by='Quality_Score', ascending=False)
 
-    # Remove selected books if applicable
     if user_books:
         age_filtered = age_filtered[~age_filtered['Title'].isin(user_books)]
 
-    top_recs = age_filtered[['Title', 'Author', 'Genres', 'Quality_Score']].head(10)
+    # Shuffle and select 10 different recommendations
+    return age_filtered.sample(n=min(10, len(age_filtered)), random_state=random.randint(1, 10000))
 
-    # --- Display Recommendations ---
+
+# --- Store and Display Recommendations ---
+if 'recommendations' not in st.session_state:
+    st.session_state['recommendations'] = None
+
+if st.button("Get Recommendations") or st.button("🔄 Regenerate Recommendations"):
+    st.session_state['recommendations'] = generate_recommendations()
+
+# Show recommendations if available
+if st.session_state['recommendations'] is not None:
     st.success(f"Here are your book recommendations, {name or 'reader'}:")
-    st.table(top_recs.reset_index(drop=True))
+    st.table(
+    st.session_state['recommendations'][['Title', 'Author', 'Quality_Score', 'Genres']].reset_index(drop=True)
+)
+    st.button("🔄 Regenerate Recommendations")
