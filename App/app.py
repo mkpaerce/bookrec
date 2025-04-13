@@ -208,11 +208,14 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
             st.session_state['rec_seed'] += 1
             st.session_state['recommendations'] = generate_recommendations()
     with col2:
-        with open(READLIST_FILE, "rb") as f:
-            data_to_download = f.read()
-            st.download_button(
+        if os.path.exists(READLIST_FILE):
+            with open(READLIST_FILE, "rb") as f:
+                data_to_download = f.read()
+                st.download_button(
                 label="⬇️ Download My Read List",
                 data=data_to_download,
                 file_name="user_list.csv",
                 mime="text/csv"
-            )
+                )
+        else:
+            st.info("📭 Your reading list is currently empty.")
