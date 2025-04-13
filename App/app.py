@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 API_KEY = st.secrets["GOOGLE_BOOKS_API_KEY"]
-READLIST_FILE = "user_readlist.csv"
+READLIST_FILE = "App/user_list.csv"
 
 def fetch_book_info(title, api_key=None):
     params = {
@@ -233,7 +233,7 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
             st.download_button(
             label="⬇️ Download My Read List",
             data=data_to_download,
-            file_name="my_read_list.csv",
+            file_name="user_list.csv",
             mime="text/csv"
 )
 
