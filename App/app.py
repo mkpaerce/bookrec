@@ -7,7 +7,7 @@ import requests
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = os.getenv("GOOGLE_BOOKS_API_KEY")
+API_KEY = st.secrets["GOOGLE_BOOKS_API_KEY"]
 READLIST_FILE = "user_readlist.csv"
 
 def fetch_book_info(title, api_key=None):
@@ -32,7 +32,7 @@ def fetch_book_info(title, api_key=None):
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("Book_Recommender_Final.csv")
+    return pd.read_csv("App/Book_Recommender_Final.csv")
 
 def save_to_csv(title, status):
     entry = pd.DataFrame([[title, status]], columns=["Title", "Status"])
