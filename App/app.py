@@ -10,8 +10,6 @@ load_dotenv()
 API_KEY = st.secrets["GOOGLE_BOOKS_API_KEY"]
 READLIST_FILE = "App/user_list.csv"
 
-st.code(response.url)
-
 
 def fetch_book_info(title, api_key=None):
     params = {
@@ -25,6 +23,10 @@ def fetch_book_info(title, api_key=None):
 
     try:
         response = requests.get('https://www.googleapis.com/books/v1/volumes', params=params, timeout=5)
+
+        # 👇 Add this line here to debug in-app
+        st.code(response.url)
+
         if response.status_code != 200:
             st.warning(f"API Error: {response.status_code}")
             return None, "No description available."
@@ -42,6 +44,7 @@ def fetch_book_info(title, api_key=None):
     except Exception as e:
         st.error(f"API fetch error: {e}")
         return None, "No description available."
+
 
 @st.cache_data
 def load_data():
