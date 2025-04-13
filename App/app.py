@@ -10,6 +10,8 @@ load_dotenv()
 API_KEY = st.secrets["GOOGLE_BOOKS_API_KEY"]
 READLIST_FILE = "App/user_list.csv"
 
+st.code(response.url)
+
 
 def fetch_book_info(title, api_key=None):
     params = {
