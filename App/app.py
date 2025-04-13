@@ -21,11 +21,17 @@ def fetch_book_info(title, api_key=None):
     if api_key:
         params['key'] = api_key
 
-    try:
-        response = requests.get('https://www.googleapis.com/books/v1/volumes', params=params, timeout=5)
+    headers = {
+        'User-Agent': 'Mozilla/5.0'  # <- helps bypass 403 from Google
+    }
 
-        # 👇 Add this line here to debug in-app
-        st.code(response.url)
+    try:
+        response = requests.get(
+            'https://www.googleapis.com/books/v1/volumes',
+            params=params,
+            headers=headers,
+            timeout=5
+        )
 
         if response.status_code != 200:
             st.warning(f"API Error: {response.status_code}")
