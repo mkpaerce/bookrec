@@ -1,61 +1,19 @@
-
 import streamlit as st
 import pandas as pd
 import random
 import os
-import requests
 from dotenv import load_dotenv
 
 load_dotenv()
-API_KEY = st.secrets["GOOGLE_BOOKS_API_KEY"]
 READLIST_FILE = "App/user_list.csv"
-
-
-def fetch_book_info(title, api_key=None):
-    params = {
-        'q': title,
-        'maxResults': 1,
-        'printType': 'books',
-        'langRestrict': 'en'
-    }
-    if api_key:
-        params['key'] = api_key
-
-    headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
-                   (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-    }
-
-    try:
-        response = requests.get(
-            'https://www.googleapis.com/books/v1/volumes',
-            params=params,
-            headers=headers,
-            timeout=5
-        )
-
-        if response.status_code != 200:
-            st.warning(f"API Error: {response.status_code}")
-            return None, "No description available."
-
-        data = response.json()
-        if 'items' not in data:
-            st.info(f"No items returned for title: {title}")
-            return None, "No description available."
-
-        item = data['items'][0]['volumeInfo']
-        thumbnail = item.get('imageLinks', {}).get('thumbnail')
-        description = item.get('description', 'No description available.')
-        return thumbnail, description
-
-    except Exception as e:
-        st.error(f"API fetch error: {e}")
-        return None, "No description available."
-
 
 @st.cache_data
 def load_data():
     return pd.read_csv("App/Book_Recommender_Final.csv")
+
+@st.cache_data
+def load_metadata():
+    return pd.read_csv("App/book_metadata.csv")
 
 def save_to_csv(title, status):
     entry = pd.DataFrame([[title, status]], columns=["Title", "Status"])
@@ -68,42 +26,44 @@ def render_badges(items):
     return " ".join([f"`{item}`" for item in items])
 
 def generate_recommendations():
-            if selected_method == "lucky":
-                selected_cluster = random.choice(df['Cluster'].unique())
-                recs = df[df['Cluster'] == selected_cluster]
-            elif selected_method == "books":
-                selected_clusters = df[df['Title'].isin(user_books)]['Cluster']
-                if selected_clusters.empty:
-                    st.warning("We couldn't match any of your books to our database.")
-                    st.stop()
-                selected_cluster = selected_clusters.mode()[0]
-                recs = df[df['Cluster'] == selected_cluster]
-            elif selected_method == "authors":
-                selected_clusters = df[df['Author'].isin(user_authors)]['Cluster']
-                if selected_clusters.empty:
-                    st.warning("We couldn't match any of your books to our database.")
-                    st.stop()
-                selected_cluster = selected_clusters.mode()[0]
-                recs = df[df['Cluster'] == selected_cluster]
-            elif selected_method == "genres":
-                genre_mask = df['Genres'].dropna().apply(lambda g: any(genre in g for genre in user_genres))
-                recs = df[genre_mask]
-            else:
-                st.warning("Please select a recommendation method.")
-                st.stop()
+    if selected_method == "lucky":
+        selected_cluster = random.choice(df['Cluster'].unique())
+        recs = df[df['Cluster'] == selected_cluster]
+    elif selected_method == "books":
+        selected_clusters = df[df['Title'].isin(user_books)]['Cluster']
+        if selected_clusters.empty:
+            st.warning("We couldn't match any of your books to our database.")
+            st.stop()
+        selected_cluster = selected_clusters.mode()[0]
+        recs = df[df['Cluster'] == selected_cluster]
+    elif selected_method == "authors":
+        selected_clusters = df[df['Author'].isin(user_authors)]['Cluster']
+        if selected_clusters.empty:
+            st.warning("We couldn't match any of your books to our database.")
+            st.stop()
+        selected_cluster = selected_clusters.mode()[0]
+        recs = df[df['Cluster'] == selected_cluster]
+    elif selected_method == "genres":
+        genre_mask = df['Genres'].dropna().apply(lambda g: any(genre in g for genre in user_genres))
+        recs = df[genre_mask]
+    else:
+        st.warning("Please select a recommendation method.")
+        st.stop()
 
-            age_filtered = recs[recs['Age_Group_Min'] <= age]
-            age_filtered = age_filtered.sort_values(by='Quality_Score', ascending=False)
+    age_filtered = recs[recs['Age_Group_Min'] <= age]
+    age_filtered = age_filtered.sort_values(by='Quality_Score', ascending=False)
 
-            if selected_method == "books":
-                age_filtered = age_filtered[~age_filtered['Title'].isin(user_books)]
+    if selected_method == "books":
+        age_filtered = age_filtered[~age_filtered['Title'].isin(user_books)]
 
-            return age_filtered.sample(n=min(10, len(age_filtered)), random_state=st.session_state['rec_seed'])
+    return age_filtered.sample(n=min(10, len(age_filtered)), random_state=st.session_state['rec_seed'])
 
+# Load data
 df = load_data()
+metadata_df = load_metadata()
+
 st.title("📚 BookRec")
 st.subheader("Discover your next great read")
-
 st.markdown("---")
 
 # Step 1: Name and Age
@@ -113,7 +73,6 @@ name = st.text_input("Name")
 age = 0
 if name:
     age = st.number_input("Reader age", min_value=0, step=1)
-
     st.markdown("---")
 
 # Step 2: Choose recommendation method
@@ -155,7 +114,6 @@ if name is not None and age > 0:
         if user_genres:
             selected_method = "genres"
 
-
     with tab4:
         lucky_click = st.checkbox("Surprise me!")
         if lucky_click:
@@ -163,30 +121,25 @@ if name is not None and age > 0:
 
     st.markdown("---")
 
+# Step 3: Generate recommendations
 if selected_method in ["books", "authors", "genres", "lucky"]:
     st.markdown("### Step 3️⃣")
     st.markdown("##### Get recommendations")
 
-    # 👤 Reader info
     if 0 < age < 8:
         st.info(f"**👤 Reader:** {name}, {age} years old - child")
-
     elif 8 < age < 18:
         st.info(f"**👤 Reader:** {name}, {age} years old - young adult")
-
-    elif age > 18 :
+    elif age > 18:
         st.info(f"**👤 Reader:** {name}, {age} years old - adult")
 
-    # 🏷️ Preferences
     if selected_method == "lucky" and not any([user_books, user_authors, user_genres]):
         st.success("🍀 Surprise Me Mode enabled — we’ll pick something random!")
 
     if user_books:
         st.markdown(f"**📚 Favourite Books:** {render_badges(user_books)}")
-
     if user_authors:
         st.markdown(f"**✏️ Favourite Authors:** {render_badges(user_authors)}")
-
     if user_genres:
         st.markdown(f"**🎭 Favourite Genres:** {render_badges(user_genres)}")
 
@@ -195,7 +148,7 @@ if selected_method in ["books", "authors", "genres", "lucky"]:
             st.session_state['rec_seed'] = random.randint(1, 10000)
         st.session_state['recommendations'] = generate_recommendations()
 
-# Step 4: Display results with options to get more or download
+# Step 4: Display results
 if 'recommendations' in st.session_state and st.session_state['recommendations'] is not None:
     st.success(f"Here are your book recommendations, {name}:")
 
@@ -208,7 +161,13 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
         rating = row.get('Avg_Rating', None)
         popularity = row.get('Num_Ratings', None)
 
-        thumbnail, description = fetch_book_info(title, api_key=API_KEY)
+        meta_row = metadata_df[metadata_df['Title'].str.strip().str.lower() == title.strip().lower()]
+        if not meta_row.empty:
+            thumbnail = meta_row.iloc[0].get("Thumbnail", None)
+            description = meta_row.iloc[0].get("Description", "No description available.")
+        else:
+            thumbnail = None
+            description = "No description available."
 
         short_desc = (description[:150].rsplit(' ', 1)[0] + "...") if len(description) > 300 else description
         score_percentage = int(score * 100)
@@ -236,7 +195,6 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
                     st.write(description)
 
             action_cols = st.columns([1, 1])
-
             with action_cols[0]:
                 if st.button("📌 Add to Reading List", key=f"want_{title}"):
                     save_to_csv(title, "Want to Read")
@@ -252,12 +210,9 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
     with col2:
         with open(READLIST_FILE, "rb") as f:
             data_to_download = f.read()
-
             st.download_button(
-            label="⬇️ Download My Read List",
-            data=data_to_download,
-            file_name="user_list.csv",
-            mime="text/csv"
-)
-
-
+                label="⬇️ Download My Read List",
+                data=data_to_download,
+                file_name="user_list.csv",
+                mime="text/csv"
+            )
