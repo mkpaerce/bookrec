@@ -174,7 +174,7 @@ if 'recommendations' in st.session_state and st.session_state['recommendations']
 
         cols = st.columns([1, 3])
         with cols[0]:
-            if thumbnail:
+            if isinstance(thumbnail, str) and thumbnail.startswith("http"):
                 st.image(thumbnail, width=100)
             else:
                 st.write("No cover")
