@@ -22,7 +22,8 @@ def fetch_book_info(title, api_key=None):
         params['key'] = api_key
 
     headers = {
-        'User-Agent': 'Mozilla/5.0'  # <- helps bypass 403 from Google
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
+                   (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
 
     try:
